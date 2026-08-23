@@ -1,5 +1,7 @@
 # Executive Sales Dashboard - Gayanara
 
+![Executive Sales Dashboard](https://res.cloudinary.com/dk2tex4to/image/upload/v1787494853/Screenshot_2026-08-23_212022_epo9ml.png)
+
 Ringkasan performa penjualan sepanjang tahun dengan perbandingan Q1 – Q4.
 Data tidak termasuk order berstatus "cancelled" dan "returned".
 
