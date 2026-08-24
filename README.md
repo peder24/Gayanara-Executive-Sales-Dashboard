@@ -1,4 +1,4 @@
-# Executive Sales Dashboard — Gayanara
+# Executive Sales Dashboard - Gayanara
 
 ![Executive Sales Dashboard](https://res.cloudinary.com/dk2tex4to/image/upload/v1787499083/Screenshot_2026-08-23_223049_mqmaau.png)
 
@@ -48,7 +48,7 @@ Revenue tertinggi terjadi di Januari – Februari, kemudian turun secara konsist
 | Q3 | Rp258.843.350 | 532 |
 | Q4 | Rp283.777.029 | 569 |
 
-Setelah 2025 dikeluarkan, Q2 justru menjadi kuartal dengan revenue tertinggi — bukan Q1. Distribusi antar kuartal cukup merata, dengan Q3 sebagai titik terendah.
+Setelah 2025 dikeluarkan, Q2 justru menjadi kuartal dengan revenue tertinggi bukan Q1. Distribusi antar kuartal cukup merata, dengan Q3 sebagai titik terendah.
 
 ### Year-over-Year (Total Revenue)
 
@@ -120,7 +120,7 @@ Dari 10 produk teratas, 3 di antaranya berasal dari kategori Dress (rank 2, 7, 1
 | Shirt | Rp68M | 5.84% |
 | T-Shirt | Rp55M | 4.72% |
 
-Tiga kategori teratas — Jacket (17.49%), Accessories (17.12%), dan Dress (16.71%) — berdekatan dalam selisih kurang dari 1 poin persentase, sementara kategori di bawahnya turun signifikan ke kisaran 8–11%.
+Tiga kategori teratas Jacket (17.49%), Accessories (17.12%), dan Dress (16.71%) berdekatan dalam selisih kurang dari 1 poin persentase, sementara kategori di bawahnya turun signifikan ke kisaran 8–11%.
 
 ---
 
@@ -141,7 +141,7 @@ Tiga kategori teratas — Jacket (17.49%), Accessories (17.12%), dan Dress (16.7
 | 9 | Kalimantan Barat | Rp58.398.970 |
 | 10 | Kalimantan Selatan | Rp57.382.270 |
 
-Jawa Barat berada jauh di atas provinsi lain — nilainya lebih dari 2x lipat Jawa Timur di posisi kedua.
+Jawa Barat berada jauh di atas provinsi lain nilainya lebih dari 2x lipat Jawa Timur di posisi kedua.
 
 ### Top 10 Kota
 
@@ -210,13 +210,13 @@ J&T, JNE, dan SiCepat menangani sekitar 85% dari total order.
 
 ## Insight
 
-**Tiga kategori teratas — Jacket, Accessories, dan Dress — hampir setara dalam revenue, tapi tidak ada satu pun yang memiliki produk dominan.**
+**Tiga kategori teratas Jacket, Accessories, dan Dress hampir setara dalam revenue, tapi tidak ada satu pun yang memiliki produk dominan.**
 Ketiganya masing-masing menyumbang 16–18% revenue total, namun selisih antara produk teratas dan ke-10 di top 10 hanya Rp4,3 juta (Rp14,5 juta vs Rp10,2 juta). Tidak ada satu produk pun yang jauh melampaui produk lainnya. Dalam kondisi ini, bisnis rentan terhadap fluktuasi kecil di level SKU karena tidak ada hero product yang bisa diandalkan sebagai anchor penjualan.
 
 **Kategori Dress menempatkan 3 produk di top 10, tapi semuanya dari dua brand yang sama.**
-Dress Midi Floral NusaBrand, Dress Bodycon Pesona Indo, dan Dress Wrap Pesona Indo masuk top 10 — artinya seluruh kekuatan kategori Dress bertumpu pada NusaBrand dan Pesona Indo. Brand lain dalam kategori ini tidak mampu bersaing di level yang sama, sehingga jika salah satu dari dua brand ini bermasalah (stok, kualitas, harga), tidak ada substitusi yang siap.
+Dress Midi Floral NusaBrand, Dress Bodycon Pesona Indo, dan Dress Wrap Pesona Indo masuk top 10 artinya seluruh kekuatan kategori Dress bertumpu pada NusaBrand dan Pesona Indo. Brand lain dalam kategori ini tidak mampu bersaing di level yang sama, sehingga jika salah satu dari dua brand ini bermasalah (stok, kualitas, harga), tidak ada substitusi yang siap.
 
-**757 unique customers dengan rata-rata 3,0 transaksi per customer — angka ini perlu diverifikasi distribusinya.**
+**757 unique customers dengan rata-rata 3,0 transaksi per customer angka ini perlu diverifikasi distribusinya.**
 Rata-rata 3,0 transaksi bisa berarti seluruh customer cukup loyal, atau bisa berarti sebagian kecil customer melakukan 10+ transaksi dan menarik rata-rata ke atas sementara mayoritas hanya beli sekali. Keduanya memerlukan respons strategi yang berbeda: yang pertama butuh program retensi massal, yang kedua butuh identifikasi dan pendalaman segmen high-value.
 
 **Bot 5 produk terjual 6–10 unit dalam 3 tahun dengan stok yang kemungkinan masih tersisa.**
