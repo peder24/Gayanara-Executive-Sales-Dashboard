@@ -219,7 +219,7 @@ Dress Midi Floral NusaBrand, Dress Bodycon Pesona Indo, dan Dress Wrap Pesona In
 **757 unique customers dengan rata-rata 3,0 transaksi per customer angka ini perlu diverifikasi distribusinya.**
 Rata-rata 3,0 transaksi bisa berarti seluruh customer cukup loyal, atau bisa berarti sebagian kecil customer melakukan 10+ transaksi dan menarik rata-rata ke atas sementara mayoritas hanya beli sekali. Keduanya memerlukan respons strategi yang berbeda: yang pertama butuh program retensi massal, yang kedua butuh identifikasi dan pendalaman segmen high-value.
 
-**Bot 5 produk terjual 6–10 unit dalam 3 tahun dengan stok yang kemungkinan masih tersisa.**
+**Bot 5 produk terjual 6 - 10 unit dalam 3 tahun dengan stok yang kemungkinan masih tersisa.**
 Revenue di bawah Rp600 ribu per produk dalam 3 tahun menunjukkan hampir tidak ada permintaan. Dengan data stok yang tersedia di sistem, prioritas pertama adalah mengidentifikasi berapa nilai stok yang masih tertahan — karena itu adalah modal yang tidak produktif, bukan sekadar masalah katalog.
 
 ---
