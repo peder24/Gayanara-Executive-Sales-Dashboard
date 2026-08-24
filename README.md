@@ -1,6 +1,6 @@
 # Executive Sales Dashboard - Gayanara
 
-![Executive Sales Dashboard](https://res.cloudinary.com/dk2tex4to/image/upload/v1787499083/Screenshot_2026-08-23_223049_mqmaau.png)
+![Executive Sales Dashboard]([https://res.cloudinary.com/dk2tex4to/image/upload/v1787499083/Screenshot_2026-08-23_223049_mqmaau.png](https://res.cloudinary.com/dk2tex4to/image/upload/v1787539761/Screenshot_2026-08-24_094838_rhq48b.png))
 
 ## Overview
 
