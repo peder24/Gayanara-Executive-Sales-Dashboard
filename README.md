@@ -1,25 +1,37 @@
-# Executive Sales Dashboard - Gayanara
+# GAYANARA - Executive Sales Dashboard
+### Data Coverage: 2022-2024
 
-![Executive Sales Dashboard](https://res.cloudinary.com/dk2tex4to/image/upload/v1787539761/Screenshot_2026-08-24_094838_rhq48b.png)
+![Executive Sales Dashboard](https://res.cloudinary.com/dk2tex4to/image/upload/v1787539761/Screenshot_2026-08-24_094838_rhq48b.png) 
 
-## Overview
+> **Catatan penting:** Seluruh KPI dan analisis **tidak termasuk** order berstatus *cancelled* dan *returned*.
 
-**Executive Sales Dashboard** adalah dashboard interaktif berbasis **Power BI** untuk mengevaluasi performa penjualan Gayanara dari sisi revenue, order, customer, produk, brand, kategori, wilayah, dan courier.
+## Daftar Isi
 
-Dashboard menyediakan filter:
+1. [Overview](#1-overview)
+2. [Business Objective](#2-business-objective)
+3. [Ringkasan Eksekutif](#3-ringkasan-eksekutif)
+4. [Kinerja Per Tahun (2022-2024)](#4-kinerja-per-tahun-2022-2024)
+5. [Tren Revenue & Pola Musiman](#5-tren-revenue--pola-musiman)
+6. [Performa Brand](#6-performa-brand)
+7. [Performa Kategori Produk](#7-performa-kategori-produk)
+8. [Performa Regional (Provinsi & Kota)](#8-performa-regional-provinsi--kota)
+9. [Performa Kurir](#9-performa-kurir)
+10. [Radar Performa Rendah (Red Zone)](#10-radar-performa-rendah-red-zone)
+11. [Temuan Kritis & Rekomendasi Strategis](#11-temuan-kritis--rekomendasi-strategis)
+12. [Pertanyaan Bisnis yang Perlu Dijawab Selanjutnya](#12-pertanyaan-bisnis-yang-perlu-dijawab-selanjutnya)
+13. [Metric Considerations](#13-metric-considerations)
+14. [Data Model](#14-data-model)
+15. [Catatan Metodologi](#15-catatan-metodologi)
 
-- Year
-- Quarter
-- Month
-- Province
-- City
-- Brand
+## 1. Overview
 
-Analisis utama menggunakan transaksi valid dengan mengecualikan order berstatus `cancelled` dan `returned`.
+Executive Sales Dashboard adalah dashboard interaktif berbasis Power BI untuk mengevaluasi performa penjualan Gayanara dari sisi revenue, order, customer, produk, brand, kategori, wilayah, dan courier.
 
----
+Dashboard menyediakan filter: Year, Quarter, Month, Province, City, Brand.
 
-## Business Objective
+Analisis utama menggunakan transaksi valid dengan mengecualikan order berstatus cancelled dan returned.
+
+## 2. Business Objective
 
 Dashboard ini dibuat untuk menjawab:
 
@@ -32,596 +44,442 @@ Dashboard ini dibuat untuk menjawab:
 - Kota dan provinsi mana yang menunjukkan peluang maupun performa rendah?
 - Seberapa besar ketergantungan bisnis terhadap courier tertentu?
 
----
+## 3. Ringkasan Eksekutif
 
-# KPI Summary
-
-| KPI | All Year | 2022 | 2023 | 2024 |
-|---|---:|---:|---:|---:|
-| **Revenue** | Rp1.139.848.951 | Rp198.754.942 | Rp427.857.597 | Rp513.236.412 |
-| **Total Orders** | 2.287 | 389 | 871 | 1.027 |
-| **Total Units Sold** | 4.913 | 839 | 1.842 | 2.232 |
-| **Average Order Value** | Rp498.404 | Rp510.938 | Rp491.226 | Rp499.743 |
-| **Unique Customers** | 757 | 308 | 527 | 579 |
+| Metrik | 2022 | 2023 | 2024 | Total |
+|---|---|---|---|---|
+| **Revenue** | Rp198,754,942 | Rp427,857,597 | Rp513,236,412 | **Rp1,139,848,951** |
+| **Total Orders** | 389 | 871 | 1,027 | **2,287** |
+| **Total Units Sold** | 839 | 1,842 | 2,232 | **4,913** |
+| **Avg Order Value** | Rp510,938 | Rp491,226 | Rp499,743 | Rp498,404 |
+| **Unique Customers** | 308 | 527 | 579 | **757** |
 
 ### KPI Interpretation
 
-Dari 2022 hingga 2024, seluruh KPI utama menunjukkan peningkatan pada skala bisnis. Pada 2024 dibandingkan 2023:
-
-- Revenue naik sekitar **20,0%**
-- Orders naik sekitar **17,9%**
-- Units Sold naik sekitar **21,2%**
-- Unique Customers naik sekitar **9,9%**
-- AOV naik sekitar **1,7%**
-
-Pertumbuhan revenue dan order yang lebih cepat daripada pertumbuhan customer menunjukkan bahwa customer existing semakin penting terhadap pertumbuhan bisnis.
-
-Rasio agregat orders per customer juga meningkat:
-
-- 2022: sekitar **1,26**
-- 2023: sekitar **1,65**
-- 2024: sekitar **1,77**
-
-Rasio tersebut bukan repeat purchase rate formal, tetapi dapat digunakan sebagai indikasi awal bahwa aktivitas transaksi per customer meningkat.
-
----
-
-# Business Insights
-
-## 1. Gayanara mengalami ekspansi sangat kuat pada 2023, lalu memasuki pertumbuhan yang lebih moderat pada 2024
-
-Revenue meningkat dari:
-
-- **Rp198,75 juta pada 2022**
-- **Rp427,86 juta pada 2023**
-- **Rp513,24 juta pada 2024**
-
-Pertumbuhan 2023 terhadap 2022 mencapai sekitar **115%**, sedangkan pertumbuhan 2024 terhadap 2023 sekitar **20%**.
-
-### Kondisi bisnis
-
-Gayanara terus mengalami pertumbuhan dan 2024 menjadi tahun dengan revenue tertinggi. Namun, laju pertumbuhan sudah tidak seagresif 2023.
-
-### Implikasi
-
-Bisnis terlihat berpindah dari fase ekspansi yang sangat cepat menuju fase pertumbuhan yang lebih moderat.
-
-### Rekomendasi
-
-Strategi pertumbuhan sebaiknya mulai bergeser dari hanya mengejar acquisition dan volume menuju:
-
-- customer retention,
-- repeat purchase,
-- peningkatan nilai customer,
-- optimasi produk,
-- dan ekspansi pada market yang sudah menunjukkan traction.
-
----
-
-## 2. Pertumbuhan 2024 lebih banyak ditopang oleh peningkatan aktivitas transaksi daripada pertambahan customer
-
-Perubahan 2023 ke 2024:
+Dari 2022 hingga 2024, seluruh KPI utama menunjukkan peningkatan. Pada 2024 dibandingkan 2023:
 
 | KPI | Perubahan |
-|---|---:|
-| Revenue | +20,0% |
-| Orders | +17,9% |
-| Units Sold | +21,2% |
-| Unique Customers | +9,9% |
-| AOV | +1,7% |
+|---|---|
+| Revenue | +20.0% |
+| Orders | +17.9% |
+| Units Sold | +21.2% |
+| Unique Customers | +9.9% |
+| AOV | +1.7% |
 
-### Kondisi bisnis
+Pertumbuhan revenue dan order yang lebih cepat daripada pertumbuhan customer menunjukkan bahwa **customer existing semakin penting** terhadap pertumbuhan bisnis.
 
-Customer bertambah sekitar 10%, tetapi order bertambah hampir 18% dan revenue bertambah 20%.
+Rasio agregat orders per customer meningkat dari tahun ke tahun:
 
-AOV relatif stabil, sehingga peningkatan revenue lebih banyak berjalan seiring dengan peningkatan volume transaksi dan unit terjual.
+| Tahun | Orders per Customer |
+|---|---|
+| 2022 | 1.26 |
+| 2023 | 1.65 |
+| 2024 | 1.77 |
 
-### Implikasi
+Rasio ini bukan repeat purchase rate formal, tetapi merupakan indikasi awal bahwa aktivitas transaksi per customer meningkat.
 
-Customer yang sudah ada semakin penting dalam menghasilkan revenue.
+### Headline Insight
 
-### Rekomendasi
+- Bisnis tumbuh **+115%** dari 2022 ke 2023, akselerasi yang sangat signifikan.
+- Pertumbuhan melambat menjadi **+20%** dari 2023 ke 2024, masih positif tetapi deceleration ini perlu diwaspadai.
+- **AOV relatif stagnan** di kisaran Rp490-511 ribu. Pertumbuhan revenue sepenuhnya didorong oleh volume order, bukan kenaikan nilai transaksi per pelanggan.
+- Unique customers tumbuh dari 308 ke 527 ke 579. Akselerasi akuisisi pelanggan baru melambat drastis di 2024 (+52 customer vs +219 di tahun sebelumnya), mengindikasikan pasar yang mulai saturasi atau efisiensi akuisisi yang menurun.
 
-Prioritaskan:
+## 4. Kinerja Per Tahun (2022-2024)
 
-- customer retention,
-- repeat purchase,
-- cross-selling,
-- bundling,
-- personalized promotion.
+### 2022 - Tahun Fondasi
 
-Untuk tahap analisis berikutnya, hitung **repeat purchase rate** dan **cohort retention** agar kontribusi customer existing dapat diukur secara formal.
+Revenue **Rp198.7 juta** dengan 389 order dari 308 customer. AOV tertinggi (Rp510,938) menandakan basis pelanggan awal cenderung high-value.
 
----
+Distribusi quarterly: Q1 (Rp54.1M, 97 orders), Q2 (Rp43.2M, 94 orders), Q3 (Rp42.3M, 92 orders), Q4 (Rp59.1M, 106 orders). Ada pola U-shape di mana Q1 dan Q4 lebih kuat dari Q2-Q3.
 
-## 3. Q3 menjadi titik pelemahan yang konsisten, tetapi stabilitas bisnis membaik pada 2024
+Top brand: Cendana Co (13.18%), Riang Apparel (12.46%), SandangIndo (12.24%), Tropika Style (11.88%).
 
-### 2022
+**Kondisi bisnis:** Tahun fondasi dengan basis customer yang kecil tetapi high-value. Pola quarterly menunjukkan bisnis belum memiliki strategi mid-year yang kuat.
 
-| Quarter | Revenue | Orders |
-|---|---:|---:|
-| Q1 | Rp54,16 juta | 97 |
-| Q2 | Rp43,24 juta | 94 |
-| Q3 | Rp42,25 juta | 92 |
-| Q4 | Rp59,10 juta | 106 |
+**Implikasi:** Pertumbuhan sangat bergantung pada akuisisi customer baru.
 
-### 2023
+**Rekomendasi:** Bangun sistem retention sejak awal agar customer 2022 tetap aktif di tahun berikutnya.
 
-| Quarter | Revenue | Orders |
-|---|---:|---:|
-| Q1 | Rp115,34 juta | 216 |
-| Q2 | Rp124,44 juta | 247 |
-| Q3 | Rp92,72 juta | 206 |
-| Q4 | Rp95,37 juta | 202 |
+### 2023 - Tahun Akselerasi
 
-### 2024
+Lompatan besar ke **Rp427.8 juta** (+115% YoY). Order naik 2.2x (389 ke 871). Ini menandakan adanya intervensi signifikan di 2023, apakah kampanye marketing besar, ekspansi channel, atau onboarding reseller/distributor baru.
 
-| Quarter | Revenue | Orders |
-|---|---:|---:|
-| Q1 | Rp124,37 juta | 258 |
-| Q2 | Rp135,69 juta | 274 |
-| Q3 | Rp123,87 juta | 234 |
-| Q4 | Rp129,31 juta | 261 |
+Distribusi quarterly: Q1 (Rp115.3M, 216 orders), Q2 (Rp124.4M, 247 orders), Q3 (Rp92.7M, 206 orders), Q4 (Rp95.4M, 202 orders).
 
-### Kondisi bisnis
+Penurunan Q2 ke Q3 di 2023 mencapai **25.5%** — penurunan yang sangat tajam.
 
-Q2 menjadi quarter terkuat pada 2023 dan 2024. Q3 menjadi titik pelemahan.
+NusaBrand muncul sebagai brand dominan (12.85%). Revenue by category mulai menunjukkan dominasi dress (17.58%) dan jacket (17.44%).
 
-Penurunan Q2 ke Q3:
+**Kondisi bisnis:** Ekspansi sangat kuat tetapi Q3 menjadi titik kelemahan besar.
 
-- 2023: sekitar **25,5%**
-- 2024: sekitar **8,7%**
+**Implikasi:** Pertumbuhan yang cepat bisa menyembunyikan masalah operasional atau ketidakstabilan demand.
 
-### Implikasi
+**Rekomendasi:** Investigasi penyebab lonjakan 2023 agar dapat direplikasi secara terencana, bukan hanya mengandalkan momentum yang sama.
 
-Q3 masih merupakan periode yang perlu diperhatikan, tetapi stabilitas 2024 jauh lebih baik daripada 2023.
+### 2024 - Tahun Normalisasi
 
-### Rekomendasi
+Revenue **Rp513.2 juta** (+20% YoY), dengan 1,027 order, pertama kali melampaui 1,000 order/tahun. Riang Apparel kembali memimpin brand share (13.45%).
 
-Jangan hanya mencari alasan mengapa Q3 turun. Bandingkan Q3 2023 dengan Q3 2024 untuk menemukan faktor yang membuat penurunan pada 2024 jauh lebih terkendali.
+Distribusi quarterly: Q1 (Rp124.4M, 258 orders), Q2 (Rp135.7M, 274 orders), Q3 (Rp123.9M, 234 orders), Q4 (Rp129.3M, 261 orders).
 
----
+Penurunan Q2 ke Q3 di 2024 hanya **8.7%**, jauh lebih terkendali dibanding 2023.
 
-## 4. Product mix berubah dari tahun ke tahun
+**Kondisi bisnis:** Bisnis lebih mature dan stabil. Laju pertumbuhan moderat tetapi distribusi quarterly lebih merata.
 
-Top product pada setiap tahun tidak sepenuhnya sama.
+**Implikasi:** Bisnis berpindah dari fase ekspansi agresif ke fase pertumbuhan yang lebih berkelanjutan.
 
-### 2022
+**Rekomendasi:** Strategi pertumbuhan sebaiknya mulai bergeser dari mengejar acquisition dan volume menuju customer retention, repeat purchase, peningkatan nilai customer, dan optimasi produk.
 
-Produk teratas antara lain:
+## 5. Tren Revenue & Pola Musiman
 
-- T-Shirt Graphic SandangIndo
-- T-Shirt Graphic Riang Apparel
-- Shirt Slim Fit Tropika Style
-- Dress Bodycon Pesona Indo
+### Monthly Revenue Pattern (Agregat)
 
-### 2023
+```
+Jan-Feb  : Awal tahun kuat
+Mar-Apr  : Naik ke puncak ~Rp100-110M
+Mei      : Peak tertinggi (all-time)
+Jun-Jul  : Drop signifikan (mid-year slump)
+Agt-Sep  : Recovery moderat
+Okt      : Rebound
+Nov-Des  : Fluktuatif menjelang akhir tahun
+```
 
-Produk teratas bergeser ke:
+### Pola yang Perlu Diperhatikan
 
-- T-Shirt Graphic BajuKita
-- Kaos Striped Kanvas Lokal
-- Dress Mini Casual SandangIndo
-- Dompet Kulit Pesona Indo
+**Mid-year slump (Jun-Jul)** adalah pola yang konsisten di semua tahun. Kemungkinan penyebab:
+- Transisi post-Lebaran — anggaran belanja konsumen terpakai di periode Ramadan/Eid
+- Kurangnya inisiatif promosi di bulan-bulan ini
 
-### 2024
+**Q4 tidak selalu kuat**, berbeda dengan retail internasional yang punya peak holiday season. Bisnis ini tidak menunjukkan kenaikan drastis di Q4, artinya strategi end-of-year campaign memiliki ruang besar untuk dikembangkan.
 
-Produk teratas kembali berubah:
+**Rekomendasi:** Desain mid-year campaign khusus sebagai event brand tahunan. Maksimalkan momen Harbolnas 7.7 yang jatuh di periode slump ini.
 
-- Tas Selempang Riang Apparel
-- Celana Jeans Slim SandangIndo
-- Kemeja Oxford NusaBrand
-- Dress Wrap Pesona Indo
+## 6. Performa Brand
 
-### Kondisi bisnis
+### Brand Revenue Share (2024)
 
-Produk yang menjadi top performer tidak sepenuhnya bertahan dari tahun ke tahun.
+| Brand | Revenue | Share |
+|---|---|---|
+| Riang Apparel | Rp71M | 13.45% |
+| NusaBrand | Rp65M | 12.37% |
+| Cendana Co | Rp64M | 12.20% |
+| SandangIndo | Rp52M | 9.83% |
+| Pesona Indo | Rp51M | 9.70% |
+| Tropika Style | Rp47M | 9.02% |
+| BajuKita | Rp47M | 9.00% |
+| Senja Wear | Rp47M | 8.87% |
+| Ratu Mode | Rp43M | 8.18% |
+| Kanvas Lokal | Rp39M | 7.38% |
 
-### Implikasi
+### Kondisi Bisnis
 
-Demand pada level produk bersifat dinamis. Ranking historical sepanjang periode tidak cukup untuk menjadi satu-satunya dasar keputusan inventory.
-
-### Rekomendasi
-
-Gunakan kombinasi:
-
-**Recent Revenue + Units Sold + Stock + Trend**
-
-untuk membedakan:
-
-- produk yang konsisten laku,
-- produk yang sedang naik,
-- produk yang hanya mengalami peak pada periode tertentu.
-
----
-
-## 5. Accessories semakin penting dalam product mix 2024
-
-### 2022
-
-- Jacket: Rp37 juta
-- Dress: Rp36 juta
-- Accessories: Rp33 juta
-
-### 2023
-
-- Dress: Rp77 juta
-- Jacket: Rp77 juta
-- Accessories: Rp73 juta
-
-### 2024
-
-- **Accessories: Rp93 juta**
-- **Jacket: Rp91 juta**
-- **Dress: Rp82 juta**
-
-### Kondisi bisnis
-
-Jacket, Dress, dan Accessories merupakan kategori utama sepanjang periode, tetapi pada 2024 **Accessories menjadi kategori dengan kontribusi terbesar**.
+Distribusi brand sangat merata. Tidak ada satu brand pun yang mendominasi di atas 15%. Pertumbuhan tidak bergantung pada satu brand saja.
 
 ### Implikasi
 
-Terdapat indikasi perubahan product mix menuju kontribusi Accessories yang lebih tinggi.
+Risiko bisnis terdiversifikasi — kehilangan satu brand tidak akan collapse revenue. Namun tidak ada anchor brand yang bisa dijadikan differentiator kuat di benak konsumen. Performa brand berubah mengikuti periode dan product mix.
 
 ### Rekomendasi
 
-Accessories layak dipantau sebagai potential growth category. Namun, peningkatan inventory sebaiknya tetap didasarkan pada performa SKU di dalam kategori, bukan hanya total category revenue.
+**Riang Apparel** konsisten masuk Top 3 di semua tahun dan berpotensi dijadikan flagship brand dengan investasi lebih besar.
 
----
+**Kanvas Lokal** (7.38% di 2024) konsisten di posisi bawah. Evaluasi berdasarkan revenue growth, product contribution, consistency, dan breadth of assortment, bukan hanya revenue absolut.
 
-## 6. Brand portfolio relatif terdiversifikasi dan brand leadership berubah
+## 7. Performa Kategori Produk
 
-Pada 2024, brand dengan kontribusi terbesar antara lain:
+### Revenue by Category
 
-- Riang Apparel — sekitar Rp71 juta
-- NusaBrand — sekitar Rp65 juta
-- Cendana Co — sekitar Rp64 juta
-- SandangIndo — sekitar Rp52 juta
-- Tropika Style — sekitar Rp47 juta
+| Kategori | 2022 | 2023 | 2024 |
+|---|---|---|---|
+| Accessories | Rp33M | Rp73M | **Rp93M** |
+| Jacket | Rp37M | Rp77M | Rp91M |
+| Dress | Rp36M | Rp77M | Rp82M |
+| Kemeja | - | - | Rp56M |
+| Kaos | - | - | Rp50M |
+| Pants | - | - | Rp49M |
+| Celana | - | - | Rp46M |
+| Shirt | - | - | Rp32M |
+| T-Shirt | - | - | Rp27M |
 
-### Kondisi bisnis
+### Kondisi Bisnis
 
-Pertumbuhan tidak bergantung pada satu brand saja.
+Jacket, Dress, dan Accessories merupakan kategori utama sepanjang periode. Pada 2024, Accessories menjadi kategori dengan kontribusi terbesar untuk pertama kalinya.
 
 ### Implikasi
 
-Portfolio brand relatif terdiversifikasi, tetapi performa brand berubah mengikuti periode dan product mix.
+Terdapat indikasi perubahan product mix menuju kontribusi Accessories yang lebih tinggi. T-Shirt dan Shirt di posisi terbawah mengindikasikan average selling price rendah per item.
 
 ### Rekomendasi
 
-Evaluasi brand berdasarkan:
+Accessories layak dipantau sebagai potential growth category — cenderung memiliki margin lebih tinggi dan basket size lebih fleksibel. Namun peningkatan inventory sebaiknya tetap didasarkan pada performa SKU di dalam kategori, bukan hanya total category revenue.
 
-- revenue growth,
-- product contribution,
-- consistency,
-- dan breadth of assortment,
+Pertimbangkan apakah T-Shirt dan Shirt berkontribusi sebagai traffic driver atau justru menjadi beban margin.
 
-bukan hanya berdasarkan revenue absolut.
+## 8. Performa Regional (Provinsi & Kota)
 
----
+### Top Provinsi by Revenue (2024)
 
-## 7. Jawa Barat merupakan core market, tetapi kontribusi regional semakin beragam
+| Provinsi | Revenue |
+|---|---|
+| **Jawa Barat** | Rp104,065,391 |
+| Jawa Timur | Rp47,808,155 |
+| Jawa Tengah | Rp35,444,799 |
+| Kalimantan Barat | Rp31,640,527 |
+| Sumatera Selatan | Rp29,861,034 |
+| Sulawesi Utara | Rp29,462,539 |
 
-Revenue Jawa Barat:
+### Top Kota by Revenue per Tahun
 
-- 2022: sekitar **Rp35,49 juta**
-- 2023: sekitar **Rp88,28 juta**
-- 2024: sekitar **Rp104,07 juta**
-- All Year: sekitar **Rp227,85 juta**
+| Tahun | Top Cities |
+|---|---|
+| 2022 | Tangerang, Makassar, Yogyakarta, Malang, Semarang |
+| 2023 | Medan, Makassar, Bekasi, Surabaya, Padang |
+| 2024 | Semarang, Depok, Pontianak, Manado, Banjarmasin |
 
-### Kondisi bisnis
+### Kondisi Bisnis
 
-Jawa Barat merupakan market utama yang konsisten dari tahun ke tahun.
-
-Pada saat yang sama, kontribusi dari provinsi lain juga terlihat cukup luas.
+Jawa Barat merupakan market utama yang konsisten. Market leadership antar kota berubah setiap tahun — tidak ada satu kota yang selalu menjadi market terbesar sepanjang periode.
 
 ### Implikasi
 
-Gayanara memiliki core market yang kuat, tetapi juga memiliki basis permintaan di berbagai wilayah lain.
+Gayanara memiliki core market yang kuat sekaligus basis permintaan yang tersebar di berbagai wilayah. Market attractiveness berubah dari tahun ke tahun.
+
+**Anomali penting:** Semarang melompat ke posisi kota #1 di 2024 dari tidak masuk top 5 di 2022. Perlu investigasi faktor pendorongnya.
+
+**Kalimantan Barat (Pontianak) dan Sulawesi Utara (Manado)** masuk top revenue padahal bukan kota tier-1 — indikasi penetrasi pasar yang kuat di luar Jawa.
+
+**DKI Jakarta masuk Bot 5 Provinsi** padahal merupakan pusat ekonomi terbesar Indonesia — sinyal bahwa penetrasi pasar di Jakarta sangat belum optimal.
 
 ### Rekomendasi
 
-Gunakan dua pendekatan:
+Protect the core market: pertahankan availability dan customer retention di Jawa Barat.
 
-**Protect the core market:** pertahankan availability dan customer retention di Jawa Barat.
+Diversify the growth: gunakan Revenue Growth by City (bukan hanya Revenue absolut) untuk membedakan emerging market dari market yang hanya besar secara historical.
 
-**Diversify the growth:** cari provinsi atau kota dengan growth tinggi untuk mengurangi ketergantungan terhadap satu market.
+Aktifkan program regional ambassador atau dropshipper network di Pontianak, Manado, Banjarmasin, Palembang untuk memperkuat penetrasi yang sudah organik terbentuk.
 
----
+Lakukan targeted campaign untuk Jakarta berbasis geo-targeting.
 
-## 8. Market leadership antar kota berubah setiap tahun
+## 9. Performa Kurir
 
-### 2022
+### Distribusi Order per Kurir
 
-Top city antara lain:
+| Kurir | 2022 | 2023 | 2024 |
+|---|---|---|---|
+| J&T | 30.3% | 29.4% | 28.82% |
+| JNE | 29.8% | 27.6% | 28.82% |
+| SiCepat | 24.2% | 28.0% | 26.97% |
+| Anteraja | 10.0% | 9.8% | 10.03% |
+| Pos Indonesia | 5.7% | 5.7% | 5.36% |
 
-- Tangerang
-- Makassar
-- Yogyakarta
-- Malang
-- Semarang
+### Kondisi Bisnis
 
-### 2023
-
-Top city antara lain:
-
-- Medan
-- Makassar
-- Bekasi
-- Surabaya
-- Padang
-
-### 2024
-
-Top city antara lain:
-
-- Semarang
-- Depok
-- Pontianak
-- Manado
-- Banjarmasin
-
-### Kondisi bisnis
-
-Tidak ada satu kota yang selalu menjadi market terbesar sepanjang periode.
+J&T, JNE, dan SiCepat konsisten menjadi tiga courier utama setiap tahun dan menangani sekitar 85% order. Struktur delivery relatif stabil dari tahun ke tahun.
 
 ### Implikasi
 
-Market attractiveness berubah dari tahun ke tahun.
+Konsentrasi pada tiga partner menciptakan operational dependency. Dashboard ini hanya menunjukkan volume order sehingga belum cukup untuk menentukan courier terbaik secara kualitas layanan.
 
 ### Rekomendasi
 
-Untuk menentukan prioritas ekspansi, jangan hanya melihat **Top Revenue City**. Tambahkan **Revenue Growth by City** agar emerging market dapat dibedakan dari market yang hanya besar secara historical.
+Negosiasikan rate lebih baik dengan JNE dan J&T mengingat volume yang signifikan. Monitor SLA, delivery reliability, shipping cost, return rate, cancellation rate, dan customer experience per kurir.
 
----
+Evaluasi Pos Indonesia yang konsisten di posisi terbawah — pertimbangkan apakah partnership ini masih relevan atau bisa digantikan dengan kurir yang lebih performatif di area tertentu.
 
-## 9. Courier mix relatif stabil dan terkonsentrasi
+## 10. Radar Performa Rendah (Red Zone)
 
-### 2022
+Section "Performa Rendah (Perlu Perhatian)" adalah bagian kritis yang harus dimonitor setiap bulan.
 
-- J&T: 30,3%
-- JNE: 29,8%
-- SiCepat: 24,2%
+### Bot 5 Produk by Revenue (Agregat All Years)
 
-### 2023
+| Produk | Revenue |
+|---|---|
+| Kemeja Linen Senja Wear | Rp472,000 |
+| Jaket Varsity SandangIndo | Rp595,000 |
+| Kaos Raglan Riang Apparel | Rp686,000 |
+| Dress A-Line Pesona Indo | Rp693,000 |
+| Dompet Kulit Ratu Mode | Rp784,000 |
 
-- J&T: 29,4%
-- SiCepat: 28,0%
-- JNE: 27,6%
+### Cara Membaca Red Zone
 
-### 2024
+Performa rendah merupakan sinyal untuk investigasi, bukan bukti langsung bahwa produk atau wilayah harus dihentikan. Wilayah dan produk dengan revenue rendah berbeda antar tahun — area yang rendah pada satu tahun tidak otomatis tetap rendah pada tahun berikutnya.
 
-- J&T: 28,8%
-- JNE: 28,8%
-- SiCepat: 27,0%
-
-### Kondisi bisnis
-
-J&T, JNE, dan SiCepat konsisten menjadi tiga courier utama setiap tahun dan menangani sekitar 85% order.
-
-### Implikasi
-
-Struktur delivery relatif stabil, tetapi konsentrasi pada tiga partner menciptakan operational dependency.
-
-### Rekomendasi
-
-Monitor:
-
-- SLA,
-- delivery reliability,
-- shipping cost,
-- return rate,
-- cancellation rate,
-- customer experience.
-
-Dashboard ini hanya menunjukkan volume order sehingga belum cukup untuk menentukan courier terbaik secara kualitas layanan.
-
----
-
-## 10. Bottom 5 perlu digunakan sebagai alat diagnosis, bukan keputusan langsung
-
-Dashboard menyediakan Bottom 5 Product, Province, dan City by Revenue.
-
-### Kondisi bisnis
-
-Wilayah dan produk dengan revenue rendah berbeda antar tahun. Area yang rendah pada satu tahun tidak otomatis tetap rendah pada tahun berikutnya.
-
-### Implikasi
-
-Performa rendah merupakan sinyal untuk investigasi, bukan bukti langsung bahwa produk atau wilayah harus dihentikan.
-
-### Rekomendasi
-
-Gunakan pendekatan:
+Untuk setiap produk atau wilayah di Red Zone, gunakan pendekatan:
 
 **Current Performance + Historical Trend + Growth**
 
-Produk dengan revenue rendah tetapi growth tinggi dapat memiliki potensi yang berbeda dibandingkan produk dengan revenue besar tetapi terus menurun.
+Produk dengan revenue rendah tetapi growth tinggi memiliki potensi yang berbeda dibandingkan produk dengan revenue besar tetapi terus menurun.
 
----
+**Kemeja Linen Senja Wear (Rp472K total)** adalah produk dengan performa paling lemah. Jika produk ini sudah berjalan lebih dari 6 bulan dengan angka ini, keputusan discontinue perlu dipertimbangkan serius.
 
-# Overall Business Condition
+## 11. Temuan Kritis & Rekomendasi Strategis
 
-Secara keseluruhan:
+### Temuan #1: Deceleration Growth yang Signifikan
 
-### Growth
-Gayanara mengalami pertumbuhan sangat kuat pada 2023 dan tetap tumbuh pada 2024, tetapi laju pertumbuhannya mulai moderat.
+**Fakta:** +115% (2022 ke 2023), +20% (2023 ke 2024).
 
-### Customer
-Revenue dan orders tumbuh lebih cepat daripada unique customers pada 2024, sehingga customer existing menjadi semakin penting.
+**Implikasi:** Jika tren ini berlanjut, pertumbuhan 2025 bisa single-digit. Bisnis harus mengidentifikasi growth lever baru sebelum fase plateau tercapai.
 
-### Sales Stability
-Q3 merupakan periode yang relatif lemah, tetapi penurunan Q3 pada 2024 jauh lebih terkendali dibandingkan 2023.
+**Rekomendasi:**
+- Lakukan analisis cohort retention: apakah pelanggan 2022 dan 2023 masih aktif membeli di 2024?
+- Evaluasi customer lifetime value per akuisisi tahun.
+- Pertimbangkan ekspansi ke channel baru atau offline pop-up untuk penetrasi Jabodetabek.
 
-### Product
-Product leadership berubah antar tahun sehingga product-level monitoring diperlukan.
+### Temuan #2: AOV Stagnan
 
-### Category
-Jacket, Dress, dan Accessories menjadi core categories, dengan Accessories menjadi kategori terbesar pada 2024.
+**Fakta:** AOV 2022: Rp510K, 2023: Rp491K, 2024: Rp499K. Flat, bahkan sedikit turun.
 
-### Brand
-Kontribusi brand relatif tersebar dan brand leadership berubah antar periode.
+**Implikasi:** Customer tidak membeli lebih banyak atau lebih mahal per transaksi. Semua revenue growth berasal dari volume customer baru, bukan peningkatan spending per customer.
 
-### Geography
-Jawa Barat menjadi core market yang konsisten, tetapi market leadership antar kota berubah dari tahun ke tahun.
+**Rekomendasi:**
+- Implementasi bundle product (misalnya: kemeja + celana dengan diskon 10%).
+- Aktifkan minimum purchase threshold untuk free ongkir agar mendorong AOV naik.
+- Riset apakah ada price ceiling di segmen target — apakah produk Rp700K-1M bisa terjual.
+- Prioritaskan cross-selling dan personalized promotion untuk customer existing.
 
-### Operations
-J&T, JNE, dan SiCepat menangani mayoritas order secara konsisten.
+### Temuan #3: Jakarta Underperforming
 
----
+**Fakta:** DKI Jakarta masuk Bot 5 Provinsi padahal merupakan pasar terbesar Indonesia.
 
-# Priority Business Recommendations
+**Implikasi:** Kompetisi di Jakarta sangat ketat, atau produk GAYANARA belum mendapat awareness yang cukup.
 
-| Priority | Focus | Business Reason |
+**Rekomendasi:**
+- Investigasi kehadiran kompetitor kuat di Jakarta yang menekan share.
+- Targeted campaign berbasis Instagram/TikTok ads dengan geo-targeting Jakarta.
+- Evaluasi kurir mana yang paling cepat dan kompetitif untuk pengiriman dalam Jakarta.
+
+### Temuan #4: Akuisisi Pelanggan Baru Melambat
+
+**Fakta:** Unique Customers: 308 ke 527 (+219) ke 579 (+52). Penurunan drastis di pertambahan customer baru 2024.
+
+**Implikasi:** Saluran akuisisi yang ada mulai jenuh atau cost per acquisition meningkat.
+
+**Rekomendasi:**
+- Analisis sumber akuisisi customer baru: organic, paid, referral, atau reseller?
+- Program referral/affiliate yang terstruktur untuk memanfaatkan basis customer yang ada.
+- Eksplorasi B2B channel: apakah ada peluang penjualan ke corporate atau reseller?
+
+### Temuan #5: Mid-Year Slump Tidak Termitigasi
+
+**Fakta:** Setiap tahun terjadi penurunan revenue di Jun-Jul.
+
+**Rekomendasi:**
+- Desain mid-year campaign khusus sebagai event brand tahunan.
+- Persiapkan pre-order atau product launch baru di bulan Jun-Jul.
+- Maksimalkan momen Harbolnas 7.7 yang jatuh di periode ini.
+
+### Peluang #1: Ekspansi Kota Tier-2 di Luar Jawa
+
+**Fakta:** Pontianak, Manado, Banjarmasin, Palembang masuk Top 10 kota, mengalahkan kota-kota besar Jawa.
+
+**Rekomendasi:** Aktifkan program regional ambassador atau dropshipper network di kota-kota ini.
+
+### Peluang #2: Accessories sebagai Growth Category
+
+**Fakta:** Accessories naik ke posisi #1 revenue kategori di 2024 (Rp93M).
+
+**Rekomendasi:** Perluas portofolio accessories dan cross-sell dengan kategori apparel yang sudah kuat.
+
+## 12. Pertanyaan Bisnis yang Perlu Dijawab Selanjutnya
+
+| # | Pertanyaan | Prioritas |
 |---|---|---|
-| **1** | Customer Retention | Customer tumbuh lebih lambat daripada revenue dan orders pada 2024 |
-| **2** | Q3 Investigation | Q3 menjadi titik lemah yang muncul berulang |
-| **3** | Product Trend | Top product berubah antar tahun |
-| **4** | Accessories | Menjadi kategori terbesar pada 2024 |
-| **5** | Core Market | Jawa Barat tetap menjadi market terbesar |
-| **6** | Emerging Market | Top city berubah antar tahun |
-| **7** | Courier Management | Tiga courier menangani sekitar 85% order |
+| 1 | Berapa **repeat purchase rate** pelanggan per tahun? | Kritis |
+| 2 | Apa **sumber channel akuisisi** pelanggan baru? (organic, paid, referral) | Kritis |
+| 3 | Berapa **margin keuntungan** per produk dan per kategori? | Kritis |
+| 4 | Mengapa revenue Jakarta rendah? (kompetitor, awareness, atau logistik?) | Kritis |
+| 5 | Apa **penyebab lonjakan 2023**? (campaign besar, channel baru, dll.) | Penting |
+| 6 | Berapa **cancellation dan return rate** per produk? | Penting |
+| 7 | Apakah ada **seasonality Lebaran** yang tersembunyi dalam monthly data? | Penting |
+| 8 | Apa **product life cycle** dari produk-produk top 10? | Penting |
+| 9 | Bagaimana **Net Promoter Score (NPS)** atau rating kepuasan pelanggan? | Strategis |
+| 10 | Apakah ada korelasi antara **kurir yang digunakan** dan **return rate**? | Strategis |
 
----
+## 13. Metric Considerations
 
-# Metric Considerations
-
-## Total Revenue
+### Total Revenue
 
 KPI utama menggunakan `total_amount_idr` pada level order.
 
-## Revenue by Brand / Category
+### Revenue by Brand / Category
 
-Visual Brand dan Category menggunakan `subtotal_idr` pada level item.
+Visual Brand dan Category menggunakan `subtotal_idr` pada level item. Karena discount berada pada level order, `subtotal_idr` tidak secara langsung menunjukkan net revenue setelah discount dialokasikan ke masing-masing brand atau category.
 
-Karena discount berada pada level order, `subtotal_idr` tidak secara langsung menunjukkan net revenue setelah discount dialokasikan ke masing-masing brand atau category.
+Untuk menghindari interpretasi yang keliru, visual tersebut lebih tepat menggunakan istilah **Gross Sales by Brand** dan **Gross Sales by Category**, bukan Net Revenue by Brand/Category.
 
-Untuk menghindari interpretasi yang keliru, visual tersebut lebih tepat menggunakan istilah:
+### Transaction Status
 
-- **Gross Sales by Brand**
-- **Gross Sales by Category**
+KPI dan analisis penjualan menggunakan transaksi valid dan tidak memasukkan status cancelled dan returned. Status tersebut tetap dapat dianalisis secara terpisah untuk cancellation rate dan return rate.
 
-daripada **Net Revenue by Brand/Category**.
+## 14. Data Model
 
----
+Project menggunakan lima tabel dengan relasi sebagai berikut:
 
-# Transaction Status
-
-KPI dan analisis penjualan menggunakan transaksi valid dan tidak memasukkan:
-
-- `cancelled`
-- `returned`
-
-Status tersebut tetap dapat dianalisis secara terpisah untuk cancellation rate dan return rate.
-
----
-
-# Dashboard Components
-
-### KPI
-
-- Revenue
-- Total Orders
-- Total Units Sold
-- Average Order Value
-- Unique Customers
-
-### Sales Performance
-
-- Revenue Trend
-- Revenue & Total Orders per Quarter
-- Perbandingan YoY Total Revenue
-
-### Product & Brand
-
-- Top 10 Product by Revenue
-- Revenue by Brand
-- Revenue by Category
-- Bottom 5 Product by Revenue
-
-### Geography
-
-- Top 10 Province by Revenue
-- Top 10 City by Revenue
-- Bottom 5 Province by Revenue
-- Bottom 5 City by Revenue
-
-### Operations
-
-- Courier Performance
-
----
-
-# Interactive Filters
-
-- Year
-- Quarter
-- Month
-- Province
-- City
-- Brand
-
----
-
-# Data Model
-
-Project menggunakan tabel:
-
-- `orders`
-- `order_items`
-- `products`
-- `customers`
-- `reviews`
-
-Relasi utama menggunakan:
-
-```text
+```
 customers
-   │
-   │ customer_id
-   ▼
+   |
+   | customer_id
+   v
 orders
-   │
-   │ order_id
-   ▼
+   |
+   | order_id
+   v
 order_items
-   │
-   │ product_id
-   ▼
+   |
+   | product_id
+   v
 products
+
+reviews --> orders (order_id)
+reviews --> products (product_id)
 ```
 
----
+### Dashboard Components
 
-# Tools & Skills
+**KPI:** Revenue, Total Orders, Total Units Sold, Average Order Value, Unique Customers
 
-- Power BI Desktop
-- DAX
-- SQL
-- Data Modeling
-- KPI Development
-- Business Analysis
-- Data Visualization
-- Time-Series Analysis
-- Top-N / Bottom-N Analysis
-- Geographic Analysis
+**Sales Performance:** Revenue Trend, Revenue & Total Orders per Quarter, Perbandingan YoY Total Revenue
 
----
+**Product & Brand:** Top 10 Product by Revenue, Revenue by Brand, Revenue by Category, Bottom 5 Product by Revenue
 
-# Portfolio Takeaway
+**Geography:** Top 10 Province by Revenue, Top 10 City by Revenue, Bottom 5 Province by Revenue, Bottom 5 City by Revenue
 
-Project ini menunjukkan pendekatan analisis sales yang tidak berhenti pada ranking produk atau wilayah. Analisis dilakukan dengan membandingkan **2022, 2023, dan 2024** untuk memahami perubahan skala bisnis, customer activity, quarter performance, product mix, category contribution, geographic market, dan courier dependency.
+**Operations:** Courier Performance
 
-Kesimpulan utamanya adalah bahwa Gayanara berada dalam kondisi **bertumbuh**, tetapi karakter pertumbuhannya mulai berubah. Setelah ekspansi sangat kuat pada 2023, 2024 menunjukkan pertumbuhan yang lebih moderat dan semakin dipengaruhi oleh aktivitas customer existing. Di saat yang sama, Q3 masih menjadi periode yang perlu diperhatikan, Accessories mulai menjadi kategori utama, Jawa Barat tetap menjadi core market, dan market leadership antar kota terus berubah.
+**Interactive Filters:** Year, Quarter, Month, Province, City, Brand
 
-Karena itu, prioritas bisnis berikutnya adalah **memperkuat customer retention, memahami penyebab pelemahan Q3, mengoptimalkan product mix pada level produk, mempertahankan core market, dan mengembangkan emerging market berdasarkan growth**.
+### Tools & Skills
 
----
+Power BI Desktop, DAX, SQL, Data Modeling, KPI Development, Business Analysis, Data Visualization, Time-Series Analysis, Top-N / Bottom-N Analysis, Geographic Analysis
 
-# Tools
+## 15. Catatan Metodologi
 
-- **Power BI Desktop**
-- **DAX**
-- **SQL**
-- **Data Visualization**
-- **Business Analysis**
+- Data yang digunakan adalah valid orders, tidak termasuk cancelled dan returned.
+- Revenue dikalkulasi dari nilai transaksi aktual per order.
+- Unique Customers dihitung per tahun, bukan lifetime unique — seorang pelanggan yang membeli di 2022 dan 2023 dihitung di keduanya.
+- Perbandingan YoY menggunakan data penuh per tahun fiskal.
+- Angka "Total" di ringkasan adalah agregat semua tahun (2022 + 2023 + 2024).
+- Bottom 5 digunakan sebagai alat diagnosis, bukan dasar keputusan langsung.
+
+### Overall Business Condition
+
+Gayanara mengalami pertumbuhan sangat kuat pada 2023 dan tetap tumbuh pada 2024, tetapi laju pertumbuhannya mulai moderat. Revenue dan orders tumbuh lebih cepat daripada unique customers pada 2024, sehingga customer existing menjadi semakin penting. Q3 merupakan periode yang relatif lemah, tetapi penurunan Q3 pada 2024 jauh lebih terkendali dibandingkan 2023. Product leadership berubah antar tahun. Jacket, Dress, dan Accessories menjadi core categories dengan Accessories sebagai kategori terbesar pada 2024. Jawa Barat menjadi core market yang konsisten, tetapi market leadership antar kota berubah dari tahun ke tahun. J&T, JNE, dan SiCepat menangani mayoritas order secara konsisten.
+
+### Priority Business Recommendations
+
+| Priority | Focus | Business Reason |
+|---|---|---|
+| 1 | Customer Retention | Customer tumbuh lebih lambat daripada revenue dan orders pada 2024 |
+| 2 | Q3 Investigation | Q3 menjadi titik lemah yang muncul berulang |
+| 3 | Product Trend | Top product berubah antar tahun |
+| 4 | Accessories | Menjadi kategori terbesar pada 2024 |
+| 5 | Core Market | Jawa Barat tetap menjadi market terbesar |
+| 6 | Emerging Market | Top city berubah antar tahun |
+| 7 | Courier Management | Tiga courier menangani sekitar 85% order |
+
+*Dokumen ini dibuat berdasarkan data yang ditampilkan pada Executive Sales Dashboard GAYANARA, periode 2022-2024.*
+*Untuk pertanyaan analitik lebih lanjut atau permintaan drill-down data, hubungi tim Data & Analytics.*
+
+**Dibuat oleh:** Data & Analytics Team
+**Last Updated:** 2024
