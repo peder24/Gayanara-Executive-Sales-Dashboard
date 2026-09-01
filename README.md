@@ -56,7 +56,7 @@ Dashboard ini dibuat untuk menjawab:
 
 ### KPI Interpretation
 
-Dari 2022 hingga 2024, seluruh KPI utama menunjukkan peningkatan. Pada 2024 dibandingkan 2023:
+Seluruh KPI utama tumbuh konsisten dari 2022 hingga 2024. Pada periode 2023 ke 2024, pertumbuhannya sebagai berikut:
 
 | KPI | Perubahan |
 |---|---|
@@ -68,15 +68,6 @@ Dari 2022 hingga 2024, seluruh KPI utama menunjukkan peningkatan. Pada 2024 diba
 
 Pertumbuhan revenue dan order yang lebih cepat daripada pertumbuhan customer menunjukkan bahwa **customer existing semakin penting** terhadap pertumbuhan bisnis.
 
-Rasio agregat orders per customer meningkat dari tahun ke tahun:
-
-| Tahun | Orders per Customer |
-|---|---|
-| 2022 | 1.26 |
-| 2023 | 1.65 |
-| 2024 | 1.77 |
-
-Rasio ini bukan repeat purchase rate formal, tetapi merupakan indikasi awal bahwa aktivitas transaksi per customer meningkat.
 
 ### Headline Insight
 
