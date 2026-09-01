@@ -74,7 +74,7 @@ Pertumbuhan revenue dan order yang lebih cepat daripada pertumbuhan customer men
 - Bisnis tumbuh **+115%** dari 2022 ke 2023, akselerasi yang sangat signifikan.
 - Pertumbuhan melambat menjadi **+20%** dari 2023 ke 2024, masih positif tetapi deceleration ini perlu diwaspadai.
 - **AOV relatif stagnan** di kisaran Rp490-511 ribu. Pertumbuhan revenue sepenuhnya didorong oleh volume order, bukan kenaikan nilai transaksi per pelanggan.
-- Unique customers tumbuh dari 308 ke 527 ke 579. Akselerasi akuisisi pelanggan baru melambat drastis di 2024 (+52 customer vs +219 di tahun sebelumnya), mengindikasikan pasar yang mulai saturasi atau efisiensi akuisisi yang menurun.
+- Unique customers meningkat dari 308 pada 2022 menjadi 527 pada 2023 dan 579 pada 2024. Pertambahan customer kemudian melambat dari 219 customer pada 2023 menjadi 52 customer pada 2024, sementara revenue tetap meningkat 20%, menunjukkan bahwa pertumbuhan 2024 semakin didukung oleh peningkatan aktivitas transaksi customer yang sudah ada.
 
 ## 4. Kinerja Per Tahun (2022-2024)
 
