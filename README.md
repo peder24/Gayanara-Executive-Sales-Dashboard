@@ -66,47 +66,47 @@ Seluruh KPI utama tumbuh konsisten dari 2022 hingga 2024. Pada periode 2023 ke 2
 | Unique Customers | +9.9% |
 | AOV | +1.7% |
 
-Pertumbuhan revenue dan order yang lebih cepat daripada pertumbuhan customer menunjukkan bahwa **customer existing semakin penting** terhadap pertumbuhan bisnis.
+Pertumbuhan revenue dan orders yang lebih tinggi dibandingkan pertumbuhan jumlah pelanggan mengindikasikan bahwa aktivitas transaksi dari pelanggan yang sudah ada kemungkinan semakin berperan dalam mendorong pertumbuhan bisnis
 
 
 ### Headline Insight
 
-- Bisnis tumbuh **+115%** dari 2022 ke 2023, akselerasi yang sangat signifikan.
-- Pertumbuhan melambat menjadi **+20%** dari 2023 ke 2024, masih positif tetapi deceleration ini perlu diwaspadai.
+- Revenue meningkat 115% dari 2022 ke 2023, menunjukkan pertumbuhan yang cukup besar.
+- Revenue masih tumbuh 20% dari 2023 ke 2024, tetapi pertumbuhannya lebih lambat dibandingkan tahun sebelumnya.
 - **AOV relatif stagnan** di kisaran Rp490-511 ribu. Pertumbuhan revenue sepenuhnya didorong oleh volume order, bukan kenaikan nilai transaksi per pelanggan.
-- Unique customers meningkat dari 308 pada 2022 menjadi 527 pada 2023 dan 579 pada 2024. Pertambahan customer kemudian melambat dari 219 customer pada 2023 menjadi 52 customer pada 2024, sementara revenue tetap meningkat 20%, menunjukkan bahwa pertumbuhan 2024 semakin didukung oleh peningkatan aktivitas transaksi customer yang sudah ada.
+- Unique customers meningkat dari 308 pada 2022 menjadi 527 pada 2023 dan 579 pada 2024. Pertambahan unique customers turun dari 219 pada 2023 menjadi 52 pada 2024. Di sisi lain, revenue masih meningkat 20% pada 2024 dibandingkan 2023. Hal ini mengindikasikan bahwa peningkatan revenue pada 2024 kemungkinan semakin didukung oleh aktivitas transaksi dari pelanggan yang sudah ada.
 
 ## 4. Kinerja Per Tahun (2022-2024)
 
-### 2022 - Tahun Fondasi
+### 2022 - Performa Awal
 
-Revenue **Rp198.7 juta** dengan 389 order dari 308 customer. AOV tertinggi (Rp510,938) menandakan basis pelanggan awal cenderung high-value.
+Revenue Rp198,7 juta dengan 389 order dari 308 customer. AOV 2022 sebesar Rp510.938 merupakan yang tertinggi dalam periode 2022–2024.
 
 Distribusi quarterly: Q1 (Rp54.1M, 97 orders), Q2 (Rp43.2M, 94 orders), Q3 (Rp42.3M, 92 orders), Q4 (Rp59.1M, 106 orders). Ada pola U-shape di mana Q1 dan Q4 lebih kuat dari Q2-Q3.
 
 Top brand: Cendana Co (13.18%), Riang Apparel (12.46%), SandangIndo (12.24%), Tropika Style (11.88%).
 
-**Kondisi bisnis:** Tahun fondasi dengan basis customer yang kecil tetapi high-value. Pola quarterly menunjukkan bisnis belum memiliki strategi mid-year yang kuat.
+**Kondisi bisnis:** Pada 2022, jumlah customer dan order masih relatif lebih rendah dibandingkan tahun berikutnya. Revenue juga lebih rendah dibandingkan 2023 dan 2024. Dari sisi quarterly, revenue lebih tinggi pada Q1 dan Q4 dibandingkan Q2 dan Q3.
 
 **Implikasi:** Pertumbuhan sangat bergantung pada akuisisi customer baru.
 
 **Rekomendasi:** Bangun sistem retention sejak awal agar customer 2022 tetap aktif di tahun berikutnya.
 
-### 2023 - Tahun Akselerasi
+### 2023 - Pertumbuhan Tinggi
 
 Lompatan besar ke **Rp427.8 juta** (+115% YoY). Order naik 2.2x (389 ke 871). Ini menandakan adanya intervensi signifikan di 2023, apakah kampanye marketing besar, ekspansi channel, atau onboarding reseller/distributor baru.
 
 Distribusi quarterly: Q1 (Rp115.3M, 216 orders), Q2 (Rp124.4M, 247 orders), Q3 (Rp92.7M, 206 orders), Q4 (Rp95.4M, 202 orders).
 
-Penurunan Q2 ke Q3 di 2023 mencapai **25.5%** — penurunan yang sangat tajam.
+Penurunan Q2 ke Q3 di 2023 mencapai **25.5%** - penurunan yang sangat tajam.
 
 NusaBrand muncul sebagai brand dominan (12.85%). Revenue by category mulai menunjukkan dominasi dress (17.58%) dan jacket (17.44%).
 
-**Kondisi bisnis:** Ekspansi sangat kuat tetapi Q3 menjadi titik kelemahan besar.
+**Kondisi bisnis:** Penjualan meningkat cukup tinggi pada 2023, tetapi terjadi penurunan revenue yang cukup besar pada Q3.
 
 **Implikasi:** Pertumbuhan yang cepat bisa menyembunyikan masalah operasional atau ketidakstabilan demand.
 
-**Rekomendasi:** Investigasi penyebab lonjakan 2023 agar dapat direplikasi secara terencana, bukan hanya mengandalkan momentum yang sama.
+**Rekomendasi:** Investigasi penyebab kenaikan revenue yang cukup besar pada 2023 agar faktor yang mendorong pertumbuhan tersebut dapat dipertahankan dan dikembangkan.
 
 ### 2024 - Tahun Normalisasi
 
@@ -116,37 +116,13 @@ Distribusi quarterly: Q1 (Rp124.4M, 258 orders), Q2 (Rp135.7M, 274 orders), Q3 (
 
 Penurunan Q2 ke Q3 di 2024 hanya **8.7%**, jauh lebih terkendali dibanding 2023.
 
-**Kondisi bisnis:** Bisnis lebih mature dan stabil. Laju pertumbuhan moderat tetapi distribusi quarterly lebih merata.
+**Kondisi bisnis:** Revenue masih meningkat pada 2024, tetapi pertumbuhannya lebih lambat dibandingkan 2023. Di sisi lain, distribusi revenue per quarter lebih merata.
 
-**Implikasi:** Bisnis berpindah dari fase ekspansi agresif ke fase pertumbuhan yang lebih berkelanjutan.
+**Implikasi:** Pertumbuhan masih berjalan pada 2024, tetapi mulai melambat dibandingkan 2023. Perusahaan perlu mencari cara untuk menjaga pertumbuhan di tahun berikutnya.
 
-**Rekomendasi:** Strategi pertumbuhan sebaiknya mulai bergeser dari mengejar acquisition dan volume menuju customer retention, repeat purchase, peningkatan nilai customer, dan optimasi produk.
+**Rekomendasi:** Tetap memperkuat akuisisi customer baru, sekaligus meningkatkan customer retention, repeat purchase, dan nilai transaksi dari customer yang sudah ada. Selain itu, optimasi produk dapat dilakukan untuk mendukung pertumbuhan revenue.
 
-## 5. Tren Revenue & Pola Musiman
-
-### Monthly Revenue Pattern (Agregat)
-
-```
-Jan-Feb  : Awal tahun kuat
-Mar-Apr  : Naik ke puncak ~Rp100-110M
-Mei      : Peak tertinggi (all-time)
-Jun-Jul  : Drop signifikan (mid-year slump)
-Agt-Sep  : Recovery moderat
-Okt      : Rebound
-Nov-Des  : Fluktuatif menjelang akhir tahun
-```
-
-### Pola yang Perlu Diperhatikan
-
-**Mid-year slump (Jun-Jul)** adalah pola yang konsisten di semua tahun. Kemungkinan penyebab:
-- Transisi post-Lebaran — anggaran belanja konsumen terpakai di periode Ramadan/Eid
-- Kurangnya inisiatif promosi di bulan-bulan ini
-
-**Q4 tidak selalu kuat**, berbeda dengan retail internasional yang punya peak holiday season. Bisnis ini tidak menunjukkan kenaikan drastis di Q4, artinya strategi end-of-year campaign memiliki ruang besar untuk dikembangkan.
-
-**Rekomendasi:** Desain mid-year campaign khusus sebagai event brand tahunan. Maksimalkan momen Harbolnas 7.7 yang jatuh di periode slump ini.
-
-## 6. Performa Brand
+## 5. Performa Brand
 
 ### Brand Revenue Share (2024)
 
@@ -177,7 +153,7 @@ Risiko bisnis terdiversifikasi — kehilangan satu brand tidak akan collapse rev
 
 **Kanvas Lokal** (7.38% di 2024) konsisten di posisi bawah. Evaluasi berdasarkan revenue growth, product contribution, consistency, dan breadth of assortment, bukan hanya revenue absolut.
 
-## 7. Performa Kategori Produk
+## 6. Performa Kategori Produk
 
 ### Revenue by Category
 
@@ -207,7 +183,7 @@ Accessories layak dipantau sebagai potential growth category — cenderung memil
 
 Pertimbangkan apakah T-Shirt dan Shirt berkontribusi sebagai traffic driver atau justru menjadi beban margin.
 
-## 8. Performa Regional (Provinsi & Kota)
+## 7. Performa Regional (Provinsi & Kota)
 
 ### Top Provinsi by Revenue (2024)
 
@@ -252,7 +228,7 @@ Aktifkan program regional ambassador atau dropshipper network di Pontianak, Mana
 
 Lakukan targeted campaign untuk Jakarta berbasis geo-targeting.
 
-## 9. Performa Kurir
+## 8. Performa Kurir
 
 ### Distribusi Order per Kurir
 
@@ -278,7 +254,7 @@ Negosiasikan rate lebih baik dengan JNE dan J&T mengingat volume yang signifikan
 
 Evaluasi Pos Indonesia yang konsisten di posisi terbawah — pertimbangkan apakah partnership ini masih relevan atau bisa digantikan dengan kurir yang lebih performatif di area tertentu.
 
-## 10. Radar Performa Rendah (Red Zone)
+## 9. Radar Performa Rendah (Red Zone)
 
 Section "Performa Rendah (Perlu Perhatian)" adalah bagian kritis yang harus dimonitor setiap bulan.
 
@@ -304,7 +280,7 @@ Produk dengan revenue rendah tetapi growth tinggi memiliki potensi yang berbeda 
 
 **Kemeja Linen Senja Wear (Rp472K total)** adalah produk dengan performa paling lemah. Jika produk ini sudah berjalan lebih dari 6 bulan dengan angka ini, keputusan discontinue perlu dipertimbangkan serius.
 
-## 11. Temuan Kritis & Rekomendasi Strategis
+## 10. Temuan Kritis & Rekomendasi Strategis
 
 ### Temuan #1: Deceleration Growth yang Signifikan
 
@@ -372,22 +348,7 @@ Produk dengan revenue rendah tetapi growth tinggi memiliki potensi yang berbeda 
 
 **Rekomendasi:** Perluas portofolio accessories dan cross-sell dengan kategori apparel yang sudah kuat.
 
-## 12. Pertanyaan Bisnis yang Perlu Dijawab Selanjutnya
-
-| # | Pertanyaan | Prioritas |
-|---|---|---|
-| 1 | Berapa **repeat purchase rate** pelanggan per tahun? | Kritis |
-| 2 | Apa **sumber channel akuisisi** pelanggan baru? (organic, paid, referral) | Kritis |
-| 3 | Berapa **margin keuntungan** per produk dan per kategori? | Kritis |
-| 4 | Mengapa revenue Jakarta rendah? (kompetitor, awareness, atau logistik?) | Kritis |
-| 5 | Apa **penyebab lonjakan 2023**? (campaign besar, channel baru, dll.) | Penting |
-| 6 | Berapa **cancellation dan return rate** per produk? | Penting |
-| 7 | Apakah ada **seasonality Lebaran** yang tersembunyi dalam monthly data? | Penting |
-| 8 | Apa **product life cycle** dari produk-produk top 10? | Penting |
-| 9 | Bagaimana **Net Promoter Score (NPS)** atau rating kepuasan pelanggan? | Strategis |
-| 10 | Apakah ada korelasi antara **kurir yang digunakan** dan **return rate**? | Strategis |
-
-## 13. Metric Considerations
+## 11. Metric Considerations
 
 ### Total Revenue
 
@@ -403,7 +364,7 @@ Untuk menghindari interpretasi yang keliru, visual tersebut lebih tepat mengguna
 
 KPI dan analisis penjualan menggunakan transaksi valid dan tidak memasukkan status cancelled dan returned. Status tersebut tetap dapat dianalisis secara terpisah untuk cancellation rate dan return rate.
 
-## 14. Data Model
+## 12. Data Model
 
 Project menggunakan lima tabel dengan relasi sebagai berikut:
 
@@ -444,7 +405,7 @@ reviews --> products (product_id)
 
 Power BI Desktop, DAX, SQL, Data Modeling, KPI Development, Business Analysis, Data Visualization, Time-Series Analysis, Top-N / Bottom-N Analysis, Geographic Analysis
 
-## 15. Catatan Metodologi
+## 13. Catatan Metodologi
 
 - Data yang digunakan adalah valid orders, tidak termasuk cancelled dan returned.
 - Revenue dikalkulasi dari nilai transaksi aktual per order.
