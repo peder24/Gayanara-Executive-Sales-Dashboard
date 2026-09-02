@@ -103,9 +103,8 @@ Risiko bisnis terdiversifikasi — kehilangan satu brand tidak akan collapse rev
 
 ### Rekomendasi
 
-**Riang Apparel** konsisten masuk Top 3 di semua tahun dan berpotensi dijadikan flagship brand dengan investasi lebih besar.
-
-**Kanvas Lokal** (7.38% di 2024) konsisten di posisi bawah. Evaluasi berdasarkan revenue growth, product contribution, consistency, dan breadth of assortment, bukan hanya revenue absolut.
+**Riang Apparel** memiliki revenue tertinggi pada 2024 sebesar Rp71 juta (13,45%). Performa ini dapat menjadi perhatian dalam evaluasi strategi penjualan dan produk.
+**Kanvas Lokal** memiliki revenue terendah di antara 10 brand pada 2024, yaitu Rp39 juta (7,38%). Perlu dilakukan evaluasi lebih lanjut terhadap kontribusi produk dan perkembangan penjualannya.
 
 ## 5. Performa Kategori Produk
 
