@@ -108,7 +108,7 @@ NusaBrand muncul sebagai brand dominan (12.85%). Revenue by category mulai menun
 
 **Rekomendasi:** Investigasi penyebab kenaikan revenue yang cukup besar pada 2023 agar faktor yang mendorong pertumbuhan tersebut dapat dipertahankan dan dikembangkan.
 
-### 2024 - Tahun Normalisasi
+### 2024 - Pertumbuhan Mulai Melambat
 
 Revenue **Rp513.2 juta** (+20% YoY), dengan 1,027 order, pertama kali melampaui 1,000 order/tahun. Riang Apparel kembali memimpin brand share (13.45%).
 
