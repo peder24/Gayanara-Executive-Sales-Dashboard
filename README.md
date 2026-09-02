@@ -39,7 +39,7 @@ Dashboard ini dibuat untuk menjawab:
 - Bagaimana performa revenue dan orders pada setiap quarter?
 - Apakah pertumbuhan revenue didorong oleh pertambahan customer atau peningkatan aktivitas transaksi?
 - Produk dan kategori apa yang menjadi driver utama penjualan?
-- Bagaimana perubahan product mix dan brand performance antar tahun?
+- Bagaimana perubahan performa brand dan kategori produk antar tahun?
 - Wilayah mana yang menjadi core market?
 - Kota dan provinsi mana yang menunjukkan peluang maupun performa rendah?
 - Seberapa besar ketergantungan bisnis terhadap courier tertentu?
