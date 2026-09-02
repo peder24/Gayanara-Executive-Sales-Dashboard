@@ -76,53 +76,7 @@ Pertumbuhan revenue dan orders yang lebih tinggi dibandingkan pertumbuhan jumlah
 - **AOV relatif stagnan** di kisaran Rp490-511 ribu. Pertumbuhan revenue sepenuhnya didorong oleh volume order, bukan kenaikan nilai transaksi per pelanggan.
 - Unique customers meningkat dari 308 pada 2022 menjadi 527 pada 2023 dan 579 pada 2024. Pertambahan unique customers turun dari 219 pada 2023 menjadi 52 pada 2024. Di sisi lain, revenue masih meningkat 20% pada 2024 dibandingkan 2023. Hal ini mengindikasikan bahwa peningkatan revenue pada 2024 kemungkinan semakin didukung oleh aktivitas transaksi dari pelanggan yang sudah ada.
 
-## 4. Kinerja Per Tahun (2022-2024)
-
-### 2022 - Performa Awal
-
-Revenue Rp198,7 juta dengan 389 order dari 308 customer. AOV 2022 sebesar Rp510.938 merupakan yang tertinggi dalam periode 2022–2024.
-
-Distribusi quarterly: Q1 (Rp54.1M, 97 orders), Q2 (Rp43.2M, 94 orders), Q3 (Rp42.3M, 92 orders), Q4 (Rp59.1M, 106 orders). Ada pola U-shape di mana Q1 dan Q4 lebih kuat dari Q2-Q3.
-
-Top brand: Cendana Co (13.18%), Riang Apparel (12.46%), SandangIndo (12.24%), Tropika Style (11.88%).
-
-**Kondisi bisnis:** Pada 2022, jumlah customer dan order masih relatif lebih rendah dibandingkan tahun berikutnya. Revenue juga lebih rendah dibandingkan 2023 dan 2024. Dari sisi quarterly, revenue lebih tinggi pada Q1 dan Q4 dibandingkan Q2 dan Q3.
-
-**Implikasi:** Pertumbuhan sangat bergantung pada akuisisi customer baru.
-
-**Rekomendasi:** Bangun sistem retention sejak awal agar customer 2022 tetap aktif di tahun berikutnya.
-
-### 2023 - Pertumbuhan Tinggi
-
-Lompatan besar ke **Rp427.8 juta** (+115% YoY). Order naik 2.2x (389 ke 871). Ini menandakan adanya intervensi signifikan di 2023, apakah kampanye marketing besar, ekspansi channel, atau onboarding reseller/distributor baru.
-
-Distribusi quarterly: Q1 (Rp115.3M, 216 orders), Q2 (Rp124.4M, 247 orders), Q3 (Rp92.7M, 206 orders), Q4 (Rp95.4M, 202 orders).
-
-Penurunan Q2 ke Q3 di 2023 mencapai **25.5%** - penurunan yang sangat tajam.
-
-NusaBrand muncul sebagai brand dominan (12.85%). Revenue by category mulai menunjukkan dominasi dress (17.58%) dan jacket (17.44%).
-
-**Kondisi bisnis:** Penjualan meningkat cukup tinggi pada 2023, tetapi terjadi penurunan revenue yang cukup besar pada Q3.
-
-**Implikasi:** Pertumbuhan yang cepat bisa menyembunyikan masalah operasional atau ketidakstabilan demand.
-
-**Rekomendasi:** Investigasi penyebab kenaikan revenue yang cukup besar pada 2023 agar faktor yang mendorong pertumbuhan tersebut dapat dipertahankan dan dikembangkan.
-
-### 2024 - Pertumbuhan Mulai Melambat
-
-Revenue **Rp513.2 juta** (+20% YoY), dengan 1,027 order, pertama kali melampaui 1,000 order/tahun. Riang Apparel kembali memimpin brand share (13.45%).
-
-Distribusi quarterly: Q1 (Rp124.4M, 258 orders), Q2 (Rp135.7M, 274 orders), Q3 (Rp123.9M, 234 orders), Q4 (Rp129.3M, 261 orders).
-
-Penurunan Q2 ke Q3 di 2024 hanya **8.7%**, jauh lebih terkendali dibanding 2023.
-
-**Kondisi bisnis:** Revenue masih meningkat pada 2024, tetapi pertumbuhannya lebih lambat dibandingkan 2023. Di sisi lain, distribusi revenue per quarter lebih merata.
-
-**Implikasi:** Pertumbuhan masih berjalan pada 2024, tetapi mulai melambat dibandingkan 2023. Perusahaan perlu mencari cara untuk menjaga pertumbuhan di tahun berikutnya.
-
-**Rekomendasi:** Tetap memperkuat akuisisi customer baru, sekaligus meningkatkan customer retention, repeat purchase, dan nilai transaksi dari customer yang sudah ada. Selain itu, optimasi produk dapat dilakukan untuk mendukung pertumbuhan revenue.
-
-## 5. Performa Brand
+## 4. Performa Brand
 
 ### Brand Revenue Share (2024)
 
@@ -153,7 +107,7 @@ Risiko bisnis terdiversifikasi — kehilangan satu brand tidak akan collapse rev
 
 **Kanvas Lokal** (7.38% di 2024) konsisten di posisi bawah. Evaluasi berdasarkan revenue growth, product contribution, consistency, dan breadth of assortment, bukan hanya revenue absolut.
 
-## 6. Performa Kategori Produk
+## 5. Performa Kategori Produk
 
 ### Revenue by Category
 
@@ -183,7 +137,7 @@ Accessories layak dipantau sebagai potential growth category — cenderung memil
 
 Pertimbangkan apakah T-Shirt dan Shirt berkontribusi sebagai traffic driver atau justru menjadi beban margin.
 
-## 7. Performa Regional (Provinsi & Kota)
+## 6. Performa Regional (Provinsi & Kota)
 
 ### Top Provinsi by Revenue (2024)
 
@@ -228,7 +182,7 @@ Aktifkan program regional ambassador atau dropshipper network di Pontianak, Mana
 
 Lakukan targeted campaign untuk Jakarta berbasis geo-targeting.
 
-## 8. Performa Kurir
+## 7. Performa Kurir
 
 ### Distribusi Order per Kurir
 
@@ -254,7 +208,7 @@ Negosiasikan rate lebih baik dengan JNE dan J&T mengingat volume yang signifikan
 
 Evaluasi Pos Indonesia yang konsisten di posisi terbawah — pertimbangkan apakah partnership ini masih relevan atau bisa digantikan dengan kurir yang lebih performatif di area tertentu.
 
-## 9. Radar Performa Rendah (Red Zone)
+## 8. Radar Performa Rendah (Red Zone)
 
 Section "Performa Rendah (Perlu Perhatian)" adalah bagian kritis yang harus dimonitor setiap bulan.
 
@@ -280,7 +234,7 @@ Produk dengan revenue rendah tetapi growth tinggi memiliki potensi yang berbeda 
 
 **Kemeja Linen Senja Wear (Rp472K total)** adalah produk dengan performa paling lemah. Jika produk ini sudah berjalan lebih dari 6 bulan dengan angka ini, keputusan discontinue perlu dipertimbangkan serius.
 
-## 10. Temuan Kritis & Rekomendasi Strategis
+## 9. Temuan Kritis & Rekomendasi Strategis
 
 ### Temuan #1: Deceleration Growth yang Signifikan
 
@@ -348,7 +302,7 @@ Produk dengan revenue rendah tetapi growth tinggi memiliki potensi yang berbeda 
 
 **Rekomendasi:** Perluas portofolio accessories dan cross-sell dengan kategori apparel yang sudah kuat.
 
-## 11. Metric Considerations
+## 10. Metric Considerations
 
 ### Total Revenue
 
@@ -364,7 +318,7 @@ Untuk menghindari interpretasi yang keliru, visual tersebut lebih tepat mengguna
 
 KPI dan analisis penjualan menggunakan transaksi valid dan tidak memasukkan status cancelled dan returned. Status tersebut tetap dapat dianalisis secara terpisah untuk cancellation rate dan return rate.
 
-## 12. Data Model
+## 11. Data Model
 
 Project menggunakan lima tabel dengan relasi sebagai berikut:
 
@@ -405,7 +359,7 @@ reviews --> products (product_id)
 
 Power BI Desktop, DAX, SQL, Data Modeling, KPI Development, Business Analysis, Data Visualization, Time-Series Analysis, Top-N / Bottom-N Analysis, Geographic Analysis
 
-## 13. Catatan Metodologi
+## 12. Catatan Metodologi
 
 - Data yang digunakan adalah valid orders, tidak termasuk cancelled dan returned.
 - Revenue dikalkulasi dari nilai transaksi aktual per order.
