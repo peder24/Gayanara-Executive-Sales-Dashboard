@@ -431,7 +431,3 @@ Gayanara mengalami pertumbuhan sangat kuat pada 2023 dan tetap tumbuh pada 2024,
 | 7 | Courier Management | Tiga courier menangani sekitar 85% order |
 
 *Dokumen ini dibuat berdasarkan data yang ditampilkan pada Executive Sales Dashboard GAYANARA, periode 2022-2024.*
-*Untuk pertanyaan analitik lebih lanjut atau permintaan drill-down data, hubungi tim Data & Analytics.*
-
-**Dibuat oleh:** Data & Analytics Team
-**Last Updated:** 2024
