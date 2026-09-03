@@ -469,7 +469,7 @@ Pada level kota, **Denpasar dan Yogyakarta** muncul dalam lima terbawah pada 202
 
 ---
 
-## 10. Metric Considerations
+## 9. Metric Considerations
 
 ### Total Revenue
 
@@ -485,7 +485,7 @@ Untuk menghindari interpretasi yang keliru, visual tersebut lebih tepat mengguna
 
 KPI dan analisis penjualan menggunakan transaksi valid dan tidak memasukkan status cancelled dan returned. Status tersebut tetap dapat dianalisis secara terpisah untuk cancellation rate dan return rate.
 
-## 11. Data Model
+## 10. Data Model
 
 Project menggunakan lima tabel dengan relasi sebagai berikut:
 
@@ -526,7 +526,7 @@ reviews --> products (product_id)
 
 Power BI Desktop, DAX, SQL, Data Modeling, KPI Development, Business Analysis, Data Visualization, Time-Series Analysis, Top-N / Bottom-N Analysis, Geographic Analysis
 
-## 12. Catatan Metodologi
+## 11. Catatan 
 
 - Data yang digunakan adalah valid orders, tidak termasuk cancelled dan returned.
 - Revenue dikalkulasi dari nilai transaksi aktual per order.
