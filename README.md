@@ -78,228 +78,396 @@ Pertumbuhan revenue dan orders yang lebih tinggi dibandingkan pertumbuhan jumlah
 
 ## 4. Performa Brand
 
-### Brand Revenue Share (2024)
+### Brand Revenue Share
 
-| Brand | Revenue | Share |
-|---|---|---|
-| Riang Apparel | Rp71M | 13.45% |
-| NusaBrand | Rp65M | 12.37% |
-| Cendana Co | Rp64M | 12.20% |
-| SandangIndo | Rp52M | 9.83% |
-| Pesona Indo | Rp51M | 9.70% |
-| Tropika Style | Rp47M | 9.02% |
-| BajuKita | Rp47M | 9.00% |
-| Senja Wear | Rp47M | 8.87% |
-| Ratu Mode | Rp43M | 8.18% |
-| Kanvas Lokal | Rp39M | 7.38% |
+| Brand         |               2022 |               2023 |               2024 |
+| ------------- | -----------------: | -----------------: | -----------------: |
+| Riang Apparel |     Rp25M (12.46%) |     Rp50M (11.36%) | **Rp71M (13.45%)** |
+| NusaBrand     |      Rp19M (9.56%) | **Rp56M (12.85%)** |     Rp65M (12.37%) |
+| Cendana Co    | **Rp27M (13.18%)** |     Rp44M (10.01%) |     Rp64M (12.20%) |
+| SandangIndo   |     Rp25M (12.24%) |      Rp44M (9.92%) |      Rp52M (9.83%) |
+| Pesona Indo   |      Rp18M (8.65%) |      Rp33M (7.48%) |      Rp51M (9.70%) |
+| Tropika Style |     Rp24M (11.88%) |     Rp50M (11.40%) |      Rp47M (9.02%) |
+| BajuKita      |      Rp17M (8.47%) |      Rp44M (9.96%) |      Rp47M (9.00%) |
+| Senja Wear    |      Rp18M (8.89%) |     Rp45M (10.33%) |      Rp47M (8.87%) |
+| Ratu Mode     |      Rp15M (7.25%) |      Rp33M (7.15%) |      Rp43M (8.18%) |
+| Kanvas Lokal  |      Rp15M (7.41%) |      Rp42M (9.53%) |      Rp39M (7.38%) |
 
 ### Kondisi Bisnis
 
-Distribusi brand sangat merata. Tidak ada satu brand pun yang mendominasi di atas 15%. Pertumbuhan tidak bergantung pada satu brand saja.
+**Performa brand mengalami perubahan posisi antar tahun, meskipun distribusi revenue tetap relatif tersebar.** Pada 2022, Cendana Co memiliki revenue terbesar sebesar Rp27M (13.18%). Pada 2023, posisi teratas bergeser ke NusaBrand dengan Rp56M (12.85%), kemudian pada 2024 Riang Apparel menjadi brand dengan revenue terbesar sebesar Rp71M (13.45%).
+
+Secara keseluruhan, **seluruh brand mengalami peningkatan revenue dari 2022 ke 2024**, kecuali Tropika Style dan Kanvas Lokal yang mengalami penurunan dari 2023 ke 2024. Riang Apparel mencatat peningkatan terbesar secara nominal dari **Rp25M menjadi Rp71M**, sementara NusaBrand meningkat dari Rp19M menjadi Rp65M.
 
 ### Implikasi
 
-Risiko bisnis terdiversifikasi — kehilangan satu brand tidak akan collapse revenue. Namun tidak ada anchor brand yang bisa dijadikan differentiator kuat di benak konsumen. Performa brand berubah mengikuti periode dan product mix.
+**Pertumbuhan revenue tidak hanya berasal dari satu brand**, karena beberapa brand juga mengalami peningkatan revenue yang signifikan sepanjang 2022–2024. Namun, **posisi brand teratas berubah setiap periode**, dari Cendana Co (2022), NusaBrand (2023), menjadi Riang Apparel (2024).
+
+Hal ini menunjukkan bahwa **performa brand bersifat dinamis**, sehingga evaluasi sebaiknya tidak hanya melihat brand dengan revenue terbesar pada satu tahun, tetapi juga melihat **tren pertumbuhan dan perubahan kontribusi revenue antar tahun**.
 
 ### Rekomendasi
+Prioritaskan evaluasi dan pengembangan brand dengan tren pertumbuhan revenue yang kuat, terutama Riang Apparel dan NusaBrand. Riang Apparel meningkat dari Rp25M pada 2022 menjadi Rp71M pada 2024 dan menjadi brand dengan revenue tertinggi pada 2024, sedangkan NusaBrand meningkat dari Rp19M menjadi Rp65M.
 
-**Riang Apparel** memiliki revenue tertinggi pada 2024 sebesar Rp71 juta (13,45%). Performa ini dapat menjadi perhatian dalam evaluasi strategi penjualan dan produk.
-**Kanvas Lokal** memiliki revenue terendah di antara 10 brand pada 2024, yaitu Rp39 juta (7,38%). Perlu dilakukan evaluasi lebih lanjut terhadap kontribusi produk dan perkembangan penjualannya.
+Evaluasi penurunan revenue pada Tropika Style dan Kanvas Lokal, yang masing-masing turun dari Rp50M menjadi Rp47M dan Rp42M menjadi Rp39M pada 2023–2024. Analisis lebih lanjut dapat diarahkan pada produk, kategori, dan periode penjualan untuk mengetahui faktor yang berkaitan dengan penurunan tersebut.
+
+Pantau tren revenue dan kontribusi seluruh brand secara berkala, karena posisi brand teratas berubah setiap tahun.
 
 ## 5. Performa Kategori Produk
 
-### Revenue by Category
+### Top 10 Product by Revenue
 
-| Kategori | 2022 | 2023 | 2024 |
-|---|---|---|---|
-| Accessories | Rp33M | Rp73M | **Rp93M** |
-| Jacket | Rp37M | Rp77M | Rp91M |
-| Dress | Rp36M | Rp77M | Rp82M |
-| Kemeja | - | - | Rp56M |
-| Kaos | - | - | Rp50M |
-| Pants | - | - | Rp49M |
-| Celana | - | - | Rp46M |
-| Shirt | - | - | Rp32M |
-| T-Shirt | - | - | Rp27M |
-
-### Kondisi Bisnis
-
-Jacket, Dress, dan Accessories merupakan kategori utama sepanjang periode. Pada 2024, Accessories menjadi kategori dengan kontribusi terbesar untuk pertama kalinya.
-
-### Implikasi
-
-Terdapat indikasi perubahan product mix menuju kontribusi Accessories yang lebih tinggi. T-Shirt dan Shirt di posisi terbawah mengindikasikan average selling price rendah per item.
-
-### Rekomendasi
-
-Accessories layak dipantau sebagai potential growth category — cenderung memiliki margin lebih tinggi dan basket size lebih fleksibel. Namun peningkatan inventory sebaiknya tetap didasarkan pada performa SKU di dalam kategori, bukan hanya total category revenue.
-
-Pertimbangkan apakah T-Shirt dan Shirt berkontribusi sebagai traffic driver atau justru menjadi beban margin.
-
-## 6. Performa Regional (Provinsi & Kota)
-
-### Top Provinsi by Revenue (2024)
-
-| Provinsi | Revenue |
-|---|---|
-| **Jawa Barat** | Rp104,065,391 |
-| Jawa Timur | Rp47,808,155 |
-| Jawa Tengah | Rp35,444,799 |
-| Kalimantan Barat | Rp31,640,527 |
-| Sumatera Selatan | Rp29,861,034 |
-| Sulawesi Utara | Rp29,462,539 |
-
-### Top Kota by Revenue per Tahun
-
-| Tahun | Top Cities |
-|---|---|
-| 2022 | Tangerang, Makassar, Yogyakarta, Malang, Semarang |
-| 2023 | Medan, Makassar, Bekasi, Surabaya, Padang |
-| 2024 | Semarang, Depok, Pontianak, Manado, Banjarmasin |
+| Rank | 2022                            | Revenue | 2023                            |  Revenue | 2024                          | Revenue |
+| ---: | ------------------------------- | ------: | ------------------------------- | -------: | ----------------------------- | ------: |
+|    1 | T-Shirt Graphic SandangIndo     | Rp4,64M | T-Shirt Graphic BajuKita        | Rp11,17M | Tas Selempang Riang Apparel   | Rp9,18M |
+|    2 | Kaos Striped Riang Apparel      | Rp4,25M | Kaos Striped Kanvas Lokal       |  Rp9,24M | Celana Jeans Slim SandangIndo | Rp9,11M |
+|    3 | Tshirt Slim Fit Tropika Style   | Rp4,20M | Dress Mini Casual SandangIndo   |  Rp8,88M | Kemeja Oxford NusaBrand       | Rp8,02M |
+|    4 | Dress Bodycon Pesona Indo       | Rp4,19M | Dompet Kulit Pesona Indo        |  Rp7,37M | Dress Wrap Pesona Indo        | Rp7,79M |
+|    5 | Ikat Pinggang Kulit SandangIndo | Rp3,99M | T-Shirt Graphic SandangIndo     |  Rp7,21M | Celana Cargo NusaBrand        | Rp7,43M |
+|    6 | Dress Midi Floral Riang Apparel | Rp3,31M | Celana Jeans Slim Riang Apparel |  Rp7,12M | Kaos Oversize BajuKita        | Rp7,41M |
+|    7 | Celana Jogger SandangIndo       | Rp3,29M | Dress Bodycon Senja Wear        |  Rp6,86M | Jaket Parasut Riang Apparel   | Rp7,14M |
+|    8 | Hoodie Cendana Co               | Rp3,00M | Celana Jogger Tropika Style     |  Rp6,59M | Kemeja Batik NusaBrand        | Rp7,08M |
+|    9 | Jacket Denim Riang Apparel      | Rp2,99M | Jacket Denim Tropika Style      |  Rp6,38M | Shirt Slim Fit Cendana Co     | Rp6,91M |
+|   10 | Dress Mini Casual SandangIndo   | Rp2,84M | Celana Kulot Tropika Style      |  Rp6,34M | Celana Jogger SandangIndo     | Rp6,81M |
 
 ### Kondisi Bisnis
 
-Jawa Barat merupakan market utama yang konsisten. Market leadership antar kota berubah setiap tahun — tidak ada satu kota yang selalu menjadi market terbesar sepanjang periode.
+Komposisi Top 10 juga berubah antar periode. Hanya beberapa produk yang kembali muncul pada tahun berbeda, seperti T-Shirt Graphic SandangIndo, Dress Mini Casual SandangIndo, dan Celana Jogger SandangIndo. Sementara itu, sebagian besar produk Top 10 berbeda dari satu tahun ke tahun berikutnya.
+
+Selain perubahan komposisi, nilai revenue Top 10 meningkat dari sekitar Rp36,7M pada 2022 menjadi Rp77,1M pada 2023 dan Rp76,9M pada 2024. Ini menunjukkan bahwa produk-produk yang masuk kelompok Top 10 memberikan kontribusi revenue yang jauh lebih besar pada 2023–2024 dibandingkan 2022.
 
 ### Implikasi
 
-Gayanara memiliki core market yang kuat sekaligus basis permintaan yang tersebar di berbagai wilayah. Market attractiveness berubah dari tahun ke tahun.
+Performa produk tidak bersifat tetap dari tahun ke tahun. Karena produk unggulan dan komposisi Top 10 berubah, evaluasi produk sebaiknya tidak hanya melihat produk dengan revenue terbesar dalam satu tahun, tetapi juga melihat pola perubahan dan konsistensi performanya antarperiode.
 
-**Anomali penting:** Semarang melompat ke posisi kota #1 di 2024 dari tidak masuk top 5 di 2022. Perlu investigasi faktor pendorongnya.
-
-**Kalimantan Barat (Pontianak) dan Sulawesi Utara (Manado)** masuk top revenue padahal bukan kota tier-1 — indikasi penetrasi pasar yang kuat di luar Jawa.
-
-**DKI Jakarta masuk Bot 5 Provinsi** padahal merupakan pusat ekonomi terbesar Indonesia — sinyal bahwa penetrasi pasar di Jakarta sangat belum optimal.
+Produk yang berulang kali muncul di Top 10 dapat dipandang sebagai produk yang perlu mendapat perhatian lebih lanjut karena menunjukkan performa yang relatif konsisten dalam periode yang dianalisis.
 
 ### Rekomendasi
 
-Protect the core market: pertahankan availability dan customer retention di Jawa Barat.
+* **Evaluasi produk dengan revenue tertinggi** pada setiap tahun.
+* Evaluasi perubahan produk Top 10 antar tahun untuk mengidentifikasi produk yang mengalami peningkatan, penurunan, atau kehilangan posisi.
+* **Pantau tren revenue produk secara berkala** untuk melihat perubahan performa dan menentukan keputusan bisnis.
 
-Diversify the growth: gunakan Revenue Growth by City (bukan hanya Revenue absolut) untuk membedakan emerging market dari market yang hanya besar secara historical.
+Betul. Kalau **Kondisi Bisnis** dan **Implikasi** ingin benar-benar berbasis data, kita harus menghindari asumsi seperti *“Accessories memiliki margin lebih tinggi”* atau *“T-Shirt menjadi traffic driver”*, karena data yang kamu tampilkan **tidak menyediakan margin, quantity, atau traffic** untuk membuktikan itu.
 
-Aktifkan program regional ambassador atau dropshipper network di Pontianak, Manado, Banjarmasin, Palembang untuk memperkuat penetrasi yang sudah organik terbentuk.
+Selain itu, tabelmu juga perlu diperbaiki: **semua kategori sebenarnya sudah ada sejak 2022**, bukan baru muncul pada 2024. Dari gambar, totalnya sekitar Rp203M (2022), Rp439M (2023), dan Rp526M (2024).
 
-Lakukan targeted campaign untuk Jakarta berbasis geo-targeting.
+Saya akan susun ulang seperti ini.
 
-## 7. Performa Kurir
+---
+
+## Revenue by Category
+
+| Kategori        |      2022 |      2023 |      2024 |
+| --------------- | --------: | --------: | --------: |
+| **Accessories** |     Rp33M |     Rp73M | **Rp93M** |
+| **Jacket**      | **Rp37M** | **Rp77M** |     Rp91M |
+| **Dress**       |     Rp36M | **Rp77M** |     Rp82M |
+| Kemeja          |     Rp25M |     Rp44M |     Rp56M |
+| Kaos            |     Rp21M |     Rp52M |     Rp50M |
+| Pants           |     Rp16M |     Rp34M |     Rp49M |
+| Celana          |     Rp13M |     Rp38M |     Rp46M |
+| Shirt           |      Rp9M |     Rp16M |     Rp32M |
+| T-Shirt         |      Rp8M |     Rp16M |     Rp27M |
+
+### Kondisi Bisnis
+
+**Jacket, Dress, dan Accessories merupakan tiga kategori dengan kontribusi revenue terbesar sepanjang 2022–2024.** Pada 2022, Jacket menjadi kategori dengan revenue tertinggi sebesar Rp37M, sedangkan pada 2023 Jacket dan Dress sama-sama mencapai Rp77M. Pada 2024, Accessories menjadi kategori dengan revenue tertinggi sebesar **Rp93M**, diikuti Jacket Rp91M dan Dress Rp82M.
+
+Secara keseluruhan, **seluruh kategori mengalami peningkatan revenue dari 2022 ke 2024**. Namun, pertumbuhan antar kategori berbeda. 
+
+### Implikasi
+
+Kontribusi revenue semakin besar pada beberapa kategori utama, terutama Accessories, Jacket, dan Dress. Pada 2024, Accessories mengambil posisi sebagai kategori dengan revenue terbesar, menunjukkan bahwa kontribusi kategori tersebut semakin penting terhadap total penjualan.
+
+Di sisi lain, Shirt dan T-Shirt berada pada kelompok dengan revenue terendah pada 2024, masing-masing sebesar Rp32M dan Rp27M. Namun, keduanya tetap mengalami peningkatan revenue dibandingkan 2022. Artinya, revenue yang relatif rendah belum menunjukkan bahwa kategori tersebut mengalami masalah, sehingga tidak tepat langsung menyarankan pengurangan kategori hanya berdasarkan revenue.
+
+---
+
+### Rekomendasi
+
+1. **Pertahankan dan evaluasi lebih lanjut tiga kategori utama - Accessories, Jacket, dan Dress**, karena secara konsisten memberikan kontribusi terbesar terhadap revenue.
+
+2. Pantau kategori dengan revenue lebih rendah seperti Shirt dan T-Shirt, tetapi jangan langsung mengurangi atau menghentikannya karena revenue keduanya tetap mengalami pertumbuhan. Analisis lebih lanjut dapat dilakukan pada jumlah units sold, jumlah produk yang berkontribusi, dan perkembangan revenue masing-masing produk untuk mengetahui apakah pertumbuhannya berasal dari beberapa produk tertentu atau tersebar di dalam kategori.
+
+---
+
+# 6. Performa Regional (Province & City)
+
+## A. Top 10 Province by Revenue
+
+| Rank | 2022               | Revenue | 2023             | Revenue | 2024               |  Revenue |
+| ---: | ------------------ | ------: | ---------------- | ------: | ------------------ | -------: |
+|    1 | **Jawa Barat**     | Rp38,5M | **Jawa Barat**   | Rp88,3M | **Jawa Barat**     | Rp104,1M |
+|    2 | Jawa Timur         | Rp23,6M | Jawa Timur       | Rp40,5M | Jawa Timur         |  Rp47,8M |
+|    3 | Banten             | Rp15,3M | Sumatera Utara   | Rp30,0M | Jawa Tengah        |  Rp35,4M |
+|    4 | Sulawesi Selatan   | Rp13,1M | Sulawesi Selatan | Rp25,3M | Kalimantan Barat   |  Rp31,6M |
+|    5 | DI Yogyakarta      | Rp12,5M | Sumatera Barat   | Rp23,7M | Sumatera Selatan   |  Rp29,9M |
+|    6 | Jawa Tengah        | Rp12,2M | DKI Jakarta      | Rp23,2M | Sulawesi Utara     |  Rp29,5M |
+|    7 | Bali               | Rp11,6M | Riau             | Rp23,1M | Kalimantan Selatan |  Rp28,0M |
+|    8 | Kalimantan Timur   | Rp11,2M | Banten           | Rp22,6M | Sumatera Utara     |  Rp28,0M |
+|    9 | Sumatera Utara     | Rp10,4M | Kalimantan Timur | Rp22,5M | Kalimantan Timur   |  Rp27,1M |
+|   10 | Kalimantan Selatan |  Rp9,7M | Sulawesi Utara   | Rp22,5M | Sumatera Barat     |  Rp25,8M |
+
+### Penjelasan
+
+Pada level provinsi, **Jawa Barat menjadi kontributor revenue terbesar secara konsisten selama 2022–2024**. Revenue Jawa Barat meningkat dari sekitar **Rp38,5M pada 2022 menjadi Rp88,3M pada 2023 dan Rp104,1M pada 2024**.
+
+**Jawa Timur juga konsisten berada di posisi kedua** selama tiga tahun, dengan revenue meningkat dari Rp23,6M menjadi Rp40,5M dan kemudian Rp47,8M.
+
+Sementara itu, posisi setelah dua provinsi tersebut mengalami perubahan. Misalnya, **Banten berada di posisi ketiga pada 2022**, tetapi turun ke posisi kedelapan pada 2023 dan tidak lagi masuk lima besar pada 2024. Sebaliknya, **Jawa Tengah berada di posisi keenam pada 2022 dan naik ke posisi ketiga pada 2024**.
+
+Artinya, terdapat **perubahan kontribusi revenue antarprovinsi**, meskipun Jawa Barat dan Jawa Timur tetap menjadi dua provinsi dengan posisi teratas.
+
+---
+
+## B. Top 10 City by Revenue
+
+| Rank | 2022          | Revenue | 2023       | Revenue | 2024         | Revenue |
+| ---: | ------------- | ------: | ---------- | ------: | ------------ | ------: |
+|    1 | **Tangerang** | Rp25,2M | **Medan**  | Rp30,0M | **Semarang** | Rp35,4M |
+|    2 | Makassar      | Rp13,1M | Makassar   | Rp25,3M | Depok        | Rp31,8M |
+|    3 | Yogyakarta    | Rp12,5M | Bekasi     | Rp24,6M | Pontianak    | Rp31,6M |
+|    4 | Malang        | Rp12,2M | Surabaya   | Rp23,9M | Palembang    | Rp29,9M |
+|    5 | Semarang      | Rp12,2M | Padang     | Rp23,7M | Manado       | Rp29,5M |
+|    6 | Denpasar      | Rp11,6M | Jakarta    | Rp23,2M | Banjarmasin  | Rp28,0M |
+|    7 | Surabaya      | Rp11,3M | Pekanbaru  | Rp23,1M | Medan        | Rp28,0M |
+|    8 | Balikpapan    | Rp11,2M | Depok      | Rp22,8M | Bekasi       | Rp27,6M |
+|    9 | Bandung       | Rp11,0M | Tangerang  | Rp22,6M | Balikpapan   | Rp27,1M |
+|   10 | Medan         | Rp10,4M | Balikpapan | Rp22,5M | Padang       | Rp25,8M |
+
+### Penjelasan
+
+Berbeda dengan provinsi, **tidak ada satu kota yang secara konsisten menjadi kontributor revenue terbesar selama tiga tahun**.
+
+Kota dengan revenue tertinggi berubah dari:
+
+* **2022 → Tangerang: Rp25,2M**
+* **2023 → Medan: Rp30,0M**
+* **2024 → Semarang: Rp35,4M**
+
+Selain perubahan posisi teratas, komposisi Top 10 juga berubah. **Makassar dan Balikpapan**, misalnya, muncul dalam Top 10 selama tiga tahun, sedangkan beberapa kota lainnya hanya muncul pada tahun tertentu.
+
+Pada 2024, **Semarang, Depok, dan Pontianak** menjadi tiga kota dengan revenue terbesar. Hal ini menunjukkan bahwa kontribusi revenue pada level kota mengalami perubahan dari tahun ke tahun.
+
+---
+
+# Kondisi Bisnis
+
+### Province
+
+**Jawa Barat menunjukkan posisi yang paling konsisten**, karena menjadi provinsi dengan revenue tertinggi pada 2022, 2023, dan 2024. Jawa Timur juga mempertahankan posisi kedua selama periode tersebut.
+
+Namun, **peringkat provinsi lainnya mengalami perubahan**. Jawa Tengah, misalnya, meningkat dari posisi keenam pada 2022 menjadi posisi ketiga pada 2024. Sebaliknya, Banten mengalami penurunan posisi dari peringkat ketiga pada 2022 menjadi peringkat kedelapan pada 2023.
+
+### City
+
+Pada level kota, **peringkat revenue lebih dinamis dibandingkan provinsi**. Kota dengan revenue tertinggi berubah setiap tahun, yaitu Tangerang pada 2022, Medan pada 2023, dan Semarang pada 2024.
+
+Dengan demikian, **kontribusi revenue di level provinsi lebih konsisten pada wilayah teratas, sedangkan kontribusi di level kota mengalami perubahan yang lebih besar.**
+
+---
+
+# Implikasi
+
+1. **Jawa Barat merupakan wilayah yang paling konsisten memberikan kontribusi revenue**, sehingga perubahan performa di provinsi ini dapat memberikan dampak yang signifikan terhadap total revenue.
+
+2. **Perubahan ranking provinsi menunjukkan bahwa kontribusi antarwilayah tidak sepenuhnya tetap.** Beberapa provinsi mengalami peningkatan posisi, sementara yang lain mengalami penurunan.
+
+3. **Perubahan posisi Top 10 city menunjukkan bahwa performa kota perlu dilihat secara periodik**, karena kota dengan revenue tertinggi dapat berubah dari satu tahun ke tahun berikutnya.
+
+---
+
+# Rekomendasi
+
+1. Pertahankan penjualan di Jawa Barat dan Jawa Timur karena keduanya konsisten menjadi penyumbang revenue terbesar selama 2022–2024.
+2. Analisis pertumbuhan revenue per provinsi dan kota untuk mengetahui wilayah yang mengalami peningkatan penjualan paling besar.
+3. Pantau perubahan posisi kota setiap tahun, terutama kota yang mengalami peningkatan signifikan seperti Semarang pada 2024.
+4. Evaluasi wilayah yang mengalami penurunan atau perubahan posisi dengan membandingkan perkembangan revenue dari tahun ke tahun sebelum menentukan tindakan selanjutnya.
+
+# 7. Performa Kurir
 
 ### Distribusi Order per Kurir
 
-| Kurir | 2022 | 2023 | 2024 |
-|---|---|---|---|
-| J&T | 30.3% | 29.4% | 28.82% |
-| JNE | 29.8% | 27.6% | 28.82% |
-| SiCepat | 24.2% | 28.0% | 26.97% |
-| Anteraja | 10.0% | 9.8% | 10.03% |
-| Pos Indonesia | 5.7% | 5.7% | 5.36% |
+| Kurir             |         2022 |         2023 |         2024 |
+| ----------------- | -----------: | -----------: | -----------: |
+| **J&T**           | 118 (30,33%) | 256 (29,39%) | 296 (28,82%) |
+| **JNE**           | 116 (29,82%) | 240 (27,55%) | 296 (28,82%) |
+| **SiCepat**       |  94 (24,16%) | 244 (28,01%) | 277 (26,97%) |
+| **Anteraja**      |  39 (10,03%) |   85 (9,76%) | 103 (10,03%) |
+| **Pos Indonesia** |   22 (5,66%) |   46 (5,28%) |   55 (5,36%) |
+| **Total Orders**  |      **389** |      **871** |    **1.027** |
 
 ### Kondisi Bisnis
 
-J&T, JNE, dan SiCepat konsisten menjadi tiga courier utama setiap tahun dan menangani sekitar 85% order. Struktur delivery relatif stabil dari tahun ke tahun.
+J&T, JNE, dan SiCepat menjadi **tiga kurir dengan jumlah order terbesar selama 2022–2024**. Gabungan ketiganya menangani sekitar **84%–85% dari total order setiap tahun**.
+
+Pada 2022, J&T menjadi kurir dengan order terbanyak sebanyak **118 order (30,33%)**, sedikit di atas JNE sebanyak 116 order (29,82%). Pada 2023, J&T tetap berada di posisi pertama dengan 256 order (29,39%), sementara SiCepat meningkat menjadi 244 order (28,01%). Pada 2024, **J&T dan JNE sama-sama menangani 296 order (28,82%)**.
+
+Anteraja memiliki kontribusi sekitar **10%** setiap tahun, sedangkan Pos Indonesia berada di sekitar **5%** dari total order.
 
 ### Implikasi
 
-Konsentrasi pada tiga partner menciptakan operational dependency. Dashboard ini hanya menunjukkan volume order sehingga belum cukup untuk menentukan courier terbaik secara kualitas layanan.
+**Distribusi order berdasarkan kurir relatif stabil selama 2022–2024.** Tiga kurir utama secara konsisten menangani sebagian besar order, sementara Anteraja dan Pos Indonesia memiliki porsi yang lebih kecil.
+
+Perubahan terbesar terlihat pada **komposisi tiga kurir utama**. Porsi J&T sedikit menurun dari 30,33% pada 2022 menjadi 28,82% pada 2024, sedangkan SiCepat meningkat dari 24,16% menjadi 26,97%. Pada 2024, J&T dan JNE memiliki jumlah serta persentase order yang sama.
+
+Dengan demikian, dari data ini kita dapat melihat **pola penggunaan kurir**, tetapi belum dapat menentukan kurir mana yang memiliki layanan terbaik karena tidak terdapat data seperti waktu pengiriman, biaya pengiriman, atau tingkat keterlambatan.
 
 ### Rekomendasi
 
-Negosiasikan rate lebih baik dengan JNE dan J&T mengingat volume yang signifikan. Monitor SLA, delivery reliability, shipping cost, return rate, cancellation rate, dan customer experience per kurir.
+1. **Pertahankan pemantauan terhadap J&T, JNE, dan SiCepat** karena ketiganya menangani sebagian besar order Gayanara.
 
-Evaluasi Pos Indonesia yang konsisten di posisi terbawah — pertimbangkan apakah partnership ini masih relevan atau bisa digantikan dengan kurir yang lebih performatif di area tertentu.
+2. **Pantau perubahan distribusi order antar kurir**, terutama perkembangan SiCepat yang porsi ordernya meningkat dibandingkan 2022.
 
-## 8. Radar Performa Rendah (Red Zone)
+3. **Evaluasi kurir berdasarkan metrik layanan tambahan** sebelum mengambil keputusan terkait pemilihan atau pengurangan penggunaan kurir. Metrik yang dapat ditambahkan antara lain waktu pengiriman, biaya pengiriman, keterlambatan, cancellation, dan return rate.
 
-Section "Performa Rendah (Perlu Perhatian)" adalah bagian kritis yang harus dimonitor setiap bulan.
+4. **Pertahankan Anteraja dan Pos Indonesia sebagai bagian dari evaluasi distribusi kurir**, tetapi keputusan mengenai perubahan penggunaan keduanya sebaiknya tidak hanya didasarkan pada jumlah order.
 
-### Bot 5 Produk by Revenue (Agregat All Years)
+---
 
-| Produk | Revenue |
-|---|---|
-| Kemeja Linen Senja Wear | Rp472,000 |
-| Jaket Varsity SandangIndo | Rp595,000 |
-| Kaos Raglan Riang Apparel | Rp686,000 |
-| Dress A-Line Pesona Indo | Rp693,000 |
-| Dompet Kulit Ratu Mode | Rp784,000 |
+Betul. Bagian **Red Zone** sebelumnya terlalu jauh karena langsung mengarah ke keputusan seperti *discontinue*, padahal visual yang kamu punya hanya menunjukkan **revenue terendah pada masing-masing tahun**. Kita harus membaca tabel itu sebagai **indikator untuk diperhatikan**, bukan bukti bahwa produk atau wilayah bermasalah.
 
-### Cara Membaca Red Zone
+Karena gambar yang kamu kirim adalah **2022, 2023, dan 2024**, analisisnya justru bisa dibuat lebih kuat dengan melihat **apakah posisi rendah tersebut terus berulang atau berubah**.
 
-Performa rendah merupakan sinyal untuk investigasi, bukan bukti langsung bahwa produk atau wilayah harus dihentikan. Wilayah dan produk dengan revenue rendah berbeda antar tahun — area yang rendah pada satu tahun tidak otomatis tetap rendah pada tahun berikutnya.
+# 8. Radar Performa Rendah (Perlu Perhatian)
 
-Untuk setiap produk atau wilayah di Red Zone, gunakan pendekatan:
+Bagian ini digunakan untuk melihat **produk, provinsi, dan kota dengan revenue terendah pada masing-masing tahun** sebagai dasar untuk menentukan area yang perlu dianalisis lebih lanjut.
 
-**Current Performance + Historical Trend + Growth**
+## 2022
 
-Produk dengan revenue rendah tetapi growth tinggi memiliki potensi yang berbeda dibandingkan produk dengan revenue besar tetapi terus menurun.
+### Top 5 Produk dengan Revenue Terendah
 
-**Kemeja Linen Senja Wear (Rp472K total)** adalah produk dengan performa paling lemah. Jika produk ini sudah berjalan lebih dari 6 bulan dengan angka ini, keputusan discontinue perlu dipertimbangkan serius.
+| Rank | Produk                         | Revenue |
+| ---: | ------------------------------ | ------: |
+|    1 | Kaos Raglan Riang Apparel      |   Rp49K |
+|    2 | Jaket Varsity Kanvas Lokal     |   Rp69K |
+|    3 | Dompet Kulit SandangIndo       |   Rp79K |
+|    4 | Dompet Kulit Ratu Mode         |   Rp98K |
+|    5 | Dress Mini Casual Kanvas Lokal |   Rp98K |
 
-## 9. Temuan Kritis & Rekomendasi Strategis
+### Top 5 Province dengan Revenue Terendah
 
-### Temuan #1: Deceleration Growth yang Signifikan
+| Rank | Province         | Revenue |
+| ---: | ---------------- | ------: |
+|    1 | DKI Jakarta      |  Rp5,1M |
+|    2 | Sumatera Barat   |  Rp6,6M |
+|    3 | Kalimantan Barat |  Rp7,1M |
+|    4 | Sumatera Selatan |  Rp7,1M |
+|    5 | Riau             |  Rp8,3M |
 
-**Fakta:** +115% (2022 ke 2023), +20% (2023 ke 2024).
+### Top 5 City dengan Revenue Terendah
 
-**Implikasi:** Jika tren ini berlanjut, pertumbuhan 2025 bisa single-digit. Bisnis harus mengidentifikasi growth lever baru sebelum fase plateau tercapai.
+| Rank | City      | Revenue |
+| ---: | --------- | ------: |
+|    1 | Jakarta   |  Rp5,1M |
+|    2 | Bogor     |  Rp5,6M |
+|    3 | Padang    |  Rp6,6M |
+|    4 | Pontianak |  Rp7,1M |
+|    5 | Palembang |  Rp7,1M |
 
-**Rekomendasi:**
-- Lakukan analisis cohort retention: apakah pelanggan 2022 dan 2023 masih aktif membeli di 2024?
-- Evaluasi customer lifetime value per akuisisi tahun.
-- Pertimbangkan ekspansi ke channel baru atau offline pop-up untuk penetrasi Jabodetabek.
+---
 
-### Temuan #2: AOV Stagnan
+## 2023
 
-**Fakta:** AOV 2022: Rp510K, 2023: Rp491K, 2024: Rp499K. Flat, bahkan sedikit turun.
+### Top 5 Produk dengan Revenue Terendah
 
-**Implikasi:** Customer tidak membeli lebih banyak atau lebih mahal per transaksi. Semua revenue growth berasal dari volume customer baru, bukan peningkatan spending per customer.
+| Rank | Produk                       | Revenue |
+| ---: | ---------------------------- | ------: |
+|    1 | Jaket Denim Kanvas Lokal     |   Rp59K |
+|    2 | Jaket Varsity SandangIndo    |  Rp119K |
+|    3 | Pants Wide Leg Tropika Style |  Rp129K |
+|    4 | Kaos Oversize Ratu Mode      |  Rp158K |
+|    5 | Kemeja Linen Senja Wear      |  Rp177K |
 
-**Rekomendasi:**
-- Implementasi bundle product (misalnya: kemeja + celana dengan diskon 10%).
-- Aktifkan minimum purchase threshold untuk free ongkir agar mendorong AOV naik.
-- Riset apakah ada price ceiling di segmen target — apakah produk Rp700K-1M bisa terjual.
-- Prioritaskan cross-selling dan personalized promotion untuk customer existing.
+### Top 5 Province dengan Revenue Terendah
 
-### Temuan #3: Jakarta Underperforming
+| Rank | Province           | Revenue |
+| ---: | ------------------ | ------: |
+|    1 | Bali               | Rp14,2M |
+|    2 | DI Yogyakarta      | Rp15,9M |
+|    3 | Sumatera Selatan   | Rp17,1M |
+|    4 | Kalimantan Selatan | Rp19,7M |
+|    5 | Kalimantan Barat   | Rp19,7M |
 
-**Fakta:** DKI Jakarta masuk Bot 5 Provinsi padahal merupakan pasar terbesar Indonesia.
+### Top 5 City dengan Revenue Terendah
 
-**Implikasi:** Kompetisi di Jakarta sangat ketat, atau produk GAYANARA belum mendapat awareness yang cukup.
+| Rank | City          | Revenue |
+| ---: | ------------- | ------: |
+|    1 | Denpasar      | Rp14,2M |
+|    2 | Yogyakarta    | Rp15,9M |
+|    3 | Palembang     | Rp16,7M |
+|    4 | **Pekanbaru** | Rp17,1M |
+|    5 | Bogor         | Rp19,5M |
 
-**Rekomendasi:**
-- Investigasi kehadiran kompetitor kuat di Jakarta yang menekan share.
-- Targeted campaign berbasis Instagram/TikTok ads dengan geo-targeting Jakarta.
-- Evaluasi kurir mana yang paling cepat dan kompetitif untuk pengiriman dalam Jakarta.
+---
 
-### Temuan #4: Akuisisi Pelanggan Baru Melambat
+## 2024
 
-**Fakta:** Unique Customers: 308 ke 527 (+219) ke 579 (+52). Penurunan drastis di pertambahan customer baru 2024.
+### Top 5 Produk dengan Revenue Terendah
 
-**Implikasi:** Saluran akuisisi yang ada mulai jenuh atau cost per acquisition meningkat.
+| Rank | Produk                       | Revenue |
+| ---: | ---------------------------- | ------: |
+|    1 | Dress Maxi Polos Pesona Indo |  Rp118K |
+|    2 | T-Shirt Graphic Cendana Co   |  Rp119K |
+|    3 | Dress Wrap BajuKita          |  Rp147K |
+|    4 | Kemeja Linen Senja Wear      |  Rp177K |
+|    5 | Dress A-Line Pesona Indo     |  Rp198K |
 
-**Rekomendasi:**
-- Analisis sumber akuisisi customer baru: organic, paid, referral, atau reseller?
-- Program referral/affiliate yang terstruktur untuk memanfaatkan basis customer yang ada.
-- Eksplorasi B2B channel: apakah ada peluang penjualan ke corporate atau reseller?
+### Top 5 Province dengan Revenue Terendah
 
-### Temuan #5: Mid-Year Slump Tidak Termitigasi
+| Rank | Province         | Revenue |
+| ---: | ---------------- | ------: |
+|    1 | Bali             | Rp17,8M |
+|    2 | DI Yogyakarta    | Rp19,5M |
+|    3 | Riau             | Rp20,1M |
+|    4 | DKI Jakarta      | Rp20,2M |
+|    5 | Sulawesi Selatan | Rp22,7M |
 
-**Fakta:** Setiap tahun terjadi penurunan revenue di Jun-Jul.
+### Top 5 City dengan Revenue Terendah
 
-**Rekomendasi:**
-- Desain mid-year campaign khusus sebagai event brand tahunan.
-- Persiapkan pre-order atau product launch baru di bulan Jun-Jul.
-- Maksimalkan momen Harbolnas 7.7 yang jatuh di periode ini.
+| Rank | City       | Revenue |
+| ---: | ---------- | ------: |
+|    1 | Denpasar   | Rp17,8M |
+|    2 | Yogyakarta | Rp19,5M |
+|    3 | Pekanbaru  | Rp20,1M |
+|    4 | Jakarta    | Rp20,2M |
+|    5 | Bogor      | Rp20,4M |
 
-### Peluang #1: Ekspansi Kota Tier-2 di Luar Jawa
+---
 
-**Fakta:** Pontianak, Manado, Banjarmasin, Palembang masuk Top 10 kota, mengalahkan kota-kota besar Jawa.
+# Kondisi Bisnis
 
-**Rekomendasi:** Aktifkan program regional ambassador atau dropshipper network di kota-kota ini.
+**Produk, provinsi, dan kota yang berada pada kelompok revenue terendah berubah dari tahun ke tahun.** Pada sisi produk, tidak ada daftar produk yang sama secara keseluruhan pada 2022–2024.
 
-### Peluang #2: Accessories sebagai Growth Category
+Namun, terdapat beberapa produk yang muncul kembali. **Kemeja Linen Senja Wear**, misalnya, masuk Top 5 revenue terendah pada 2023 dan tetap berada di posisi tersebut pada 2024 dengan revenue **Rp177K pada kedua tahun**.
 
-**Fakta:** Accessories naik ke posisi #1 revenue kategori di 2024 (Rp93M).
+Pada sisi wilayah, terdapat beberapa pola yang berulang. **Bali dan DI Yogyakarta** masuk lima provinsi dengan revenue terendah pada 2023 dan 2024. **DKI Jakarta** berada di lima terbawah pada 2022 dan kembali muncul pada 2024.
 
-**Rekomendasi:** Perluas portofolio accessories dan cross-sell dengan kategori apparel yang sudah kuat.
+Pada level kota, **Denpasar dan Yogyakarta** muncul dalam lima terbawah pada 2023 dan 2024, sedangkan **Jakarta dan Bogor** muncul pada 2022 maupun 2024.
+
+---
+
+# Implikasi
+
+1. **Performa rendah tidak selalu bersifat tetap.** Perubahan daftar Top 5 dari tahun ke tahun menunjukkan bahwa produk dan wilayah dengan revenue rendah pada satu tahun tidak selalu tetap berada di posisi tersebut pada tahun berikutnya.
+
+2. **Beberapa area menunjukkan pola yang lebih konsisten.** Kemeja Linen Senja Wear tetap berada di kelompok revenue terendah pada 2023 dan 2024 dengan nilai Rp177K. Hal serupa terlihat pada Bali dan DI Yogyakarta di level provinsi serta Denpasar dan Yogyakarta di level kota yang kembali muncul pada kelompok terbawah pada 2024.
+
+3. **Karena itu, revenue saja belum cukup untuk mengambil keputusan menghentikan produk atau mengurangi aktivitas di suatu wilayah.** Yang lebih penting adalah melihat apakah revenue rendah tersebut hanya terjadi pada satu tahun atau berlangsung dalam beberapa periode.
+
+---
+
+# Rekomendasi
+
+1. **Pantau produk dan wilayah yang berulang kali masuk kelompok revenue terendah**, karena kondisi tersebut lebih perlu diperhatikan dibandingkan yang hanya muncul satu kali.
+
+2. **Lakukan analisis perkembangan revenue dari tahun ke tahun** pada produk dan wilayah yang berulang di kelompok terbawah untuk melihat apakah kondisinya membaik, tetap, atau menurun.
+
+3. **Untuk produk yang konsisten memiliki revenue rendah, lakukan pengecekan pada jumlah unit terjual dan produk terkait** sebelum menentukan tindakan lebih lanjut.
+
+4. **Untuk wilayah yang berulang di kelompok terbawah, bandingkan perkembangan revenue antar tahun** sebelum menentukan apakah perlu dilakukan evaluasi atau strategi khusus.
+
+---
 
 ## 10. Metric Considerations
 
@@ -371,16 +539,5 @@ Power BI Desktop, DAX, SQL, Data Modeling, KPI Development, Business Analysis, D
 
 Gayanara mengalami pertumbuhan sangat kuat pada 2023 dan tetap tumbuh pada 2024, tetapi laju pertumbuhannya mulai moderat. Revenue dan orders tumbuh lebih cepat daripada unique customers pada 2024, sehingga customer existing menjadi semakin penting. Q3 merupakan periode yang relatif lemah, tetapi penurunan Q3 pada 2024 jauh lebih terkendali dibandingkan 2023. Product leadership berubah antar tahun. Jacket, Dress, dan Accessories menjadi core categories dengan Accessories sebagai kategori terbesar pada 2024. Jawa Barat menjadi core market yang konsisten, tetapi market leadership antar kota berubah dari tahun ke tahun. J&T, JNE, dan SiCepat menangani mayoritas order secara konsisten.
 
-### Priority Business Recommendations
-
-| Priority | Focus | Business Reason |
-|---|---|---|
-| 1 | Customer Retention | Customer tumbuh lebih lambat daripada revenue dan orders pada 2024 |
-| 2 | Q3 Investigation | Q3 menjadi titik lemah yang muncul berulang |
-| 3 | Product Trend | Top product berubah antar tahun |
-| 4 | Accessories | Menjadi kategori terbesar pada 2024 |
-| 5 | Core Market | Jawa Barat tetap menjadi market terbesar |
-| 6 | Emerging Market | Top city berubah antar tahun |
-| 7 | Courier Management | Tiga courier menangani sekitar 85% order |
 
 *Dokumen ini dibuat berdasarkan data yang ditampilkan pada Executive Sales Dashboard GAYANARA, periode 2022-2024.*
